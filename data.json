@@ -1,6 +1,45 @@
 {
-	"DiwakarMishra":[[],[],
-		["XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"]
+	"Diwakar Mishra":[
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"]
+		
 	],
-	"Shalu":{}
+	"Shalu":[
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"]
+		],
+	"Bhavna":[["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"]
+		],
+	"Shaurya":[["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"]
+		]
 }
