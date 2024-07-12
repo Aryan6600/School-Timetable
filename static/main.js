@@ -21,7 +21,7 @@ function getData(){
                     d1.setAttribute('class',"ms-2 me-auto")
                     let span = document.createElement('span')
                     span.setAttribute('class',"badge text-bg-primary rounded-pill")
-                    span.innerText=data[name]
+                    span.innerText=`in ${data[name]}`
                     d1.innerText=name
                     li.appendChild(d1)
                     li.appendChild(span)
@@ -33,7 +33,11 @@ function getData(){
 	    let val = q_inp.value
 	    fdata.append('query',val)
 	    xhttp.open("POST","/search",true)
-        xhttp.send(fdata);
+	    if (val==""){
+	        content.innerHTML=""
+	        return
+	    }
+       xhttp.send(fdata);
     },500)
    
 }
