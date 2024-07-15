@@ -1,13 +1,13 @@
 import json #for parsing json file and sending json response on server
-from time import gmtime,strftime # to get current time for knowing the correct period
+from time import gmtime,strftime,localtime # to get current time for knowing the correct period
 from flask import Flask,render_template,request #required to create a webserver for this app
 
 f=open('data.json','r') #opening the json file which contains the data for timetable
 data=f.read() # saving contents of above file as text
 timetable=json.loads(data) # parsing the above text as a dictionary
-c_time=strftime("%w/%H:%M/%p",gmtime()).split("/") # getting current week day number, time and AM/PM
-
-period_map=["7:40-8:20","8:20-9:00","9:00-9:40","9:40-10:20","10:20-11:00","11:00-11:40","11:40-12:20","12:20-13:00","13:00-13:40","13:40-24:00","00:00-7:20"] # map for timings of different periods
+c_time=strftime("%w/%H:%M/%p",localtime()).split("/") # getting current week day number, time and AM/PM
+print(c_time)
+period_map=["7:40-8:20","8:20-9:00","9:00-9:40","9:40-10:20","10:20-11:00","11:00-11:40","11:40-12:20","12:20-13:00","13:00-13:40"] # map for timings of different periods
 
 faculties=timetable.keys() # getting name of every faculty 
 
@@ -23,12 +23,12 @@ def getCurrentPeriod(): # function to predict the current period
         #print(c_time[1].split(":")[0])
         #print(c_time[1].split(":")[1])
         if int(c_time[1].split(":")[0])>=int(p_start[0]) and int(c_time[1].split(":")[0])<=int(p_end[0]): # checking if current hour is in thw range of this period
-         #   print("True")
+            #print("True")
             if int(c_time[1].split(":")[0])==int(p_end[0]): # checking if current hour is equal to ending hour
                                                             # if it is equal then we check for minutes to be sure
-          #      print("True")
+                #print("True")
                 if int(c_time[1].split(":")[1])>=int(p_start[1]) and int(c_time[1].split(":")[1])<=int(p_end[1]):
-           #         print("True")
+                    #print("True")
                     return period # if this period matches with current timings then return the period value
                 period+=1
                 continue
@@ -43,11 +43,12 @@ def index():
     return render_template('index.html')
 
 @app.route('/search',methods=["POST"])
-def search(): # json api route for getting the data of faculties
+def search(): # json api route for getting the data of facuilties
     if request.method=="POST":
         results=[]
         try:
             query=request.form['query'].lower() # getting the name of the given faculty
+           # print("Valid Query")
             if query == None:
                 return 'Invalid Parameters'
             #print(f"Searching for {query}")
@@ -55,21 +56,40 @@ def search(): # json api route for getting the data of faculties
                 #print(f"trying to match with {name}")
                 i=0
                 while len(query)+i<=len(name):
-                    #print(name[i:len(query)+i].lower())
+             #       print(name[i:len(query)+i].lower())
                     if query==name[i:len(query)+i].lower():
                         results.append(name)
+            #            print("found",name)
                         break
                     i+=1
             data=dict()
+            period_no=getCurrentPeriod()
+            #print(period_no)
+            if period_no==999 or int(c_time[0])==0:
+                return '{"No Data":["[Not Defined]","None"]}'
+            
+           # print("most code completed")
             for j in results:
-                data[j]=timetable[j][int(c_time[0])][getCurrentPeriod()] # generating a dictionary for the matched faculties with their current locatino in classes
+                current_period=timetable[j][int(c_time[0])-1][period_no]
+                subject=timetable[j][6]
+                data[j]=[current_period,subject] # generating a dictionary for the matched faculties with their current locatino in classes
+            
             res = json.dumps(data) # returning response to the cliend in json format
             #print(res)
             return res
         except:
-            return 'Error Occoured'
+            return 'Error'
+            
+@app.route('/view')
+def getData():
+    name=request.args['n']
+    if name==None or name=="":
+        return 'Invalid Parameters'
+    f_data=timetable[name]
+    print(f_data)
+    return render_template('view.html',data=f_data,name=name)
 
 
 
 
-app.run(debug=False) # starting app
+app.run(debug=True) # starting app
