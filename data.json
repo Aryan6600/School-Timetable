@@ -5,16 +5,16 @@
 		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
 		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
 		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X12-A","Computer x Lab","Computer Lab","Computer Lab"],
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X12-A","Computer x Lab","Computer Lab","Computer Lab"],
+		["Duthjfy","XIjhvjg-A","XII-A","Computer Lab","Computer Lab","X12-A","Computer x Lab","Computer Lab","Computer Lab"],
 		"Computer Science"
 	],
 	"Shalu":[
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X12-A","Computer x Lab","Computer Lab","Computer Lab"],
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X12-A","Computer x Lab","Computer Lab","Computer Lab"],
+		["XII-A","XII-A","XI-B","XI-A","Free","XII-D","Free","XII-A","XI-B"],
+		["XII-A","XII-A","XI-B","Free","XI-A","Free","Free","XII-D","XI-A"],
+		["XII-A","XII-A","XII-D","XI-A","XII-D","XI-B","XI-B","Free","XI-B"],
+		["XII-A","XII-A","XI-A","XII-D","Free","Corridoor Duty","XII-A","XI-B","XII-A"],
+		["XII-A","XII-A","XI-A","XI-B","XII-D","Free","Free","XII-A","XII-D"],
+		["XII-A","XII-D","Free","XI-B","XII-A","XI-A","XI-B","Free","XI-A"],
 		"Maths"
 		],
 	"Bhavna":[
@@ -36,12 +36,12 @@
 		"Chemistry"
 		],
 	"Shikha Jain":[
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
-		["Duty","XI-A","XII-A","Computer Lab","Computer Lab","X12-A","Computer x Lab","Computer Lab","Computer Lab"],
+		["XII-B","Physics Lab","XII-B","Physics Lab","Physics Lab","XII-A","XI-A","XI-B","Physics Lab"],
+		["XII-B","XII-B","XI-A","XII-A","Physics Lab","XI-B","Corridoor Duty","Physics Lab","Physics Lab"],
+		["XII-B","XI-A","XII-B","Physics Lab","Physics Lab","Physics Lab","XII-A","Physics Lab","Physics Lab"],
+		["XII-B","Physics Lab","XII-A","XI-A","Physics Lab","XII-B","XI-B","Physics Lab","Physics Lab Lab"],
+		["XII-B","XII-B","Physics Lab","Physics Lab","Physics Lab","XI-A","XII-A","Physics Lab","XI-B"],
+		["XII-B","XII-B","Physics Lab","XII-B","Physics Lab","XI-B","XI-A","XII-A","XI-B"],
 		"Physics"
 	],
 	"Sneh Yadav":[

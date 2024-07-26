@@ -31,7 +31,8 @@ function getData(){
 		        for (name in data){
                     let li = document.createElement('li')
                     let a = document.createElement('a')
-                    a.setAttribute('href',`/view?n=${name}`)
+                    //a.setAttribute('href',`/view?n=${name}`)
+                    a.setAttribute('href',`#`)
                     //li.setAttribute('class',"list-group-item list-group-item-action d-flex justify-content-between align-items-start")
                     a.setAttribute('class',"list-group-item")
                     let d1 = document.createElement('div')
