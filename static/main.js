@@ -10,7 +10,7 @@ function getData(){
 	        if (state.target.readyState==4 && state.target.status==200){
 	             try{
 		            data=JSON.parse(xhttp.responseText)
-		            console.log(data)
+		            //console.log(data)
 		        }catch{
 		        
 		        }

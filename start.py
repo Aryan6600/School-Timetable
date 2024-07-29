@@ -1,13 +1,10 @@
 import json #for parsing json file and sending json response on server
-from time import gmtime,strftime,localtime # to get current time for knowing the correct period
+from time import strftime,localtime # to get current time for knowing the correct period
 from flask import Flask,render_template,request #required to create a webserver for this app
 
-f=open('data.json','r') #opening the json file which contains the data for timetable
-data=f.read() # saving contents of above file as text
-timetable=json.loads(data) # parsing the above text as a dictionary
+
 period_map=["7:40-8:20","8:20-9:00","9:00-9:40","9:40-10:20","10:20-11:00","11:00-11:40","11:40-12:20","12:20-13:00","13:00-13:40"] # map for timings of different periods
 
-faculties=timetable.keys() # getting name of every faculty 
 
 def getCurrentPeriod(): # function to predict the current period
     c_time=strftime("%w/%H:%M/%p",localtime()).split("/") # getting current week day number, time and AM/PM
@@ -45,6 +42,11 @@ def index():
 @app.route('/search',methods=["POST"])
 def search(): # json api route for getting the data of facuilties
     if request.method=="POST":
+        f=open('data.json','r') #opening the json file which contains the data for timetable
+        data=f.read() # saving contents of above file as text
+        f.close()
+        timetable=json.loads(data) # parsing the above text as a dictionary
+        faculties=timetable.keys() # getting name of every faculty 
         c_time=strftime("%w/%H:%M/%p",localtime()).split("/") # getting current week day number, time and AM/PM
         results=[]
         try:
@@ -67,7 +69,7 @@ def search(): # json api route for getting the data of facuilties
             period_no=getCurrentPeriod()
             #print(period_no)
             if period_no==999 or int(c_time[0])==0:
-                return '{"No Data":["[Not Defined]","None"]}'
+                return '{"No Data for after school hours":["[Not Defined]","None"]}'
             
            # print("most code completed")
             for j in results:
@@ -81,14 +83,14 @@ def search(): # json api route for getting the data of facuilties
         except:
             return 'Error'
             
-@app.route('/view')
-def getData():
-    name=request.args['n']
-    if name==None or name=="":
-        return 'Invalid Parameters'
-    f_data=timetable[name]
-    print(f_data)
-    return render_template('view.html',data=f_data,name=name)
+#@app.route('/view')
+#def getData():
+ #   name=request.args['n']
+  #  if name==None or name=="":
+   #     return 'Invalid Parameters'
+    #f_data=timetable[name]
+    #print(f_data)
+    #return render_template('view.html',data=f_data,name=name)
 
 
 
