@@ -1,56 +1,80 @@
 {
 	"Diwakar Mishra":[
-		["Computer Lab","Computer Lab","Computer Lab","Computer Lab","XI-A","XII-B","XI-B","Computer Lab","XII-A"],
-		["Computer Lab","Computer Lab","Computer Lab","Computer Lab","XII-A","XI-A","XII-B","Computer Lab","XI-B"],
-		["Computer Lab","Computer Lab","Computer Lab","XI-B","Computer Lab","XII-A","XI-A","Computer Lab","XII-B"],
-		["Computer Lab","XII-B","Computer Lab","Computer Lab","XII-A","XI-B","Computer Lab","XI-A","Computer Lab"],
-		["Computer Lab","XI-B","XII-B","Computer Lab","XI-A","XII-A","Computer Lab","XI-B","Computer Lab"],
-		["Computer Lab","Computer Lab","XI-B","XI-A","Computer Lab","XII-A","Computer Lab","XII-B","Computer Lab"],
+		["Computer Lab","Computer Lab","Computer Lab","Computer Lab","XI-A","Recess","XII-B","XI-B","Computer Lab","XII-A"],
+		["Computer Lab","Computer Lab","Computer Lab","Computer Lab","XII-A","Recess","XI-A","XII-B","Computer Lab","XI-B"],
+		["Computer Lab","Computer Lab","Computer Lab","XI-B","Computer Lab","Recess","XII-A","XI-A","Computer Lab","XII-B"],
+		["Computer Lab","XII-B","Computer Lab","Computer Lab","XII-A","XI-B","Recess","Computer Lab","XI-A","Computer Lab"],
+		["Computer Lab","XI-B","XII-B","Computer Lab","XI-A","Recess","XII-A","Computer Lab","XI-B","Computer Lab"],
+		["Computer Lab","Computer Lab","XI-B","XI-A","Computer Lab","Recess","XII-A","Computer Lab","XII-B","Computer Lab"],
 		"Computer Science"
 	],
-	"Shalu":[
-		["XII-A","XII-A","XI-B","XI-A","Free","XII-D","Free","XII-A","XI-B"],
-		["XII-A","XII-A","XI-B","Free","XI-A","Free","Free","XII-D","XI-A"],
-		["XII-A","XII-A","XII-D","XI-A","XII-D","XI-B","XI-B","Free","XI-B"],
-		["XII-A","XII-A","XI-A","XII-D","Free","Corridoor Duty","XII-A","XI-B","XII-A"],
-		["XII-A","XII-A","XI-A","XI-B","XII-D","Free","Free","XII-A","XII-D"],
-		["XII-A","XII-D","Free","XI-B","XII-A","XI-A","XI-B","Free","XI-A"],
+	"Shalu Khanna":[
+		["XII-A","XII-A","XI-B","XI-A","Free","Recess","XII-D","Free","XII-A","XI-B"],
+		["XII-A","XII-A","XI-B","Free","XI-A","Recess","Free","Free","XII-D","XI-A"],
+		["XII-A","XII-A","XII-D","XI-A","XII-D","Recess","XI-B","XI-B","Free","XI-B"],
+		["XII-A","XII-A","XI-A","XII-D","Free","Recess","Corridoor Duty","XII-A","XI-B","XII-A"],
+		["XII-A","XII-A","XI-A","XI-B","XII-D","Recess","Free","Free","XII-A","XII-D"],
+		["XII-A","XII-D","Free","XI-B","XII-A","Recess","XI-A","XI-B","Free","XI-A"],
 		"Maths"
 		],
 	"Khushboo Chawla":[
-		["IX-A","X-A","Free","Free","IX-A","X-D","IX-A","X-F","X-A"],
-		["IX-A","IX-A","X-F","X-A","Free","X-D","X-F","Free","X-D"],
-		["IX-A","IX-A","X-F","Free","X-D","X-A","IX-A","IX-A","X-F"],
-		["IX-A","IX-A","X-A","X-A","X-F","Free","IX-A","Coridoor Duty","X-F"],
-		["IX-A","IX-A","X-A","X-F","X-D","Free","X-A","X-D","IX-A"],
-		["IX-A","IX-A","X-F","X-D","Free","Free","X-A","X-D","X-A"],
+		["IX-A","X-A","Free","Free","IX-A","Recess","X-D","IX-A","X-F","X-A"],
+		["IX-A","IX-A","X-F","X-A","Free","Recess","X-D","X-F","Free","X-D"],
+		["IX-A","IX-A","X-F","Free","X-D","Recess","X-A","IX-A","IX-A","X-F"],
+		["IX-A","IX-A","X-A","X-A","X-F","Recess","Free","IX-A","Coridoor Duty","X-F"],
+		["IX-A","IX-A","X-A","X-F","X-D","Recess","Free","X-A","X-D","IX-A"],
+		["IX-A","IX-A","X-F","X-D","Free","Recess","Free","X-A","X-D","X-A"],
 		"Social Science"
 		],
-	"Meenakshi":[
-		["IX-B","IX-B","Free","IX-F","X-D","Free","IX-D","X-E","Computer Lab"],
-		["IX-B","Coridoor duty","IX-B","X-E","IX-F","IX-D","Computer Lab","Computer Lab","Computer Lab"],
-		["IX-B","IX-B","IX-D","X-D","Free","IX-F","HM","Computer Lab","Computer Lab"],
-		["IX-B","IX-B","IX-F","IX-B","X-D","X-E","Free","Computer Lab","Computer Lab"],
-		["IX-B","IX-B","Free","IX-F","X-E","X-D","Free","Computer Lab","Computer Lab"],
-		["IX-B","IX-B","IX-F","Free","X-D","X-E","IX-D","Computer Lab","Computer Lab"],
-		"Hindi"
-		],
 	"Shikha Jain":[
-		["XII-B","Physics Lab","XII-B","Physics Lab","Physics Lab","XII-A","XI-A","XI-B","Physics Lab"],
-		["XII-B","XII-B","XI-A","XII-A","Physics Lab","XI-B","Corridoor Duty","Physics Lab","Physics Lab"],
-		["XII-B","XI-A","XII-B","Physics Lab","Physics Lab","Physics Lab","XII-A","Physics Lab","Physics Lab"],
-		["XII-B","Physics Lab","XII-A","XI-A","Physics Lab","XII-B","XI-B","Physics Lab","Physics Lab Lab"],
-		["XII-B","XII-B","Physics Lab","Physics Lab","Physics Lab","XI-A","XII-A","Physics Lab","XI-B"],
-		["XII-B","XII-B","Physics Lab","XII-B","Physics Lab","XI-B","XI-A","XII-A","XI-B"],
+		["XII-B","Physics Lab","XII-B","Physics Lab","Physics Lab","Recess","XII-A","XI-A","XI-B","Physics Lab"],
+		["XII-B","XII-B","XI-A","XII-A","Physics Lab","Recess","XI-B","Corridoor Duty","Physics Lab","Physics Lab"],
+		["XII-B","XI-A","XII-B","Physics Lab","Physics Lab","Recess","Physics Lab","XII-A","Physics Lab","Physics Lab"],
+		["XII-B","Physics Lab","XII-A","XI-A","Physics Lab","Recess","XII-B","XI-B","Physics Lab","Physics Lab Lab"],
+		["XII-B","XII-B","Physics Lab","Physics Lab","Physics Lab","Recess","XI-A","XII-A","Physics Lab","XI-B"],
+		["XII-B","XII-B","Physics Lab","XII-B","Physics Lab","Recess","XI-B","XI-A","XII-A","XI-B"],
 		"Physics"
 	],
 	"Namita Garg":[
-		["IX-C","IX-C","IX-A","IX-E","Free","VIII-D","VIII-B","VIII-D","Free"],
-		["IX-C","IX-C","IX-A","Free","VIII-B","IX-E","Free","Free","VIII-D"],
-		["IX-C","IX-C","IX-E","IX-A","Free","VII-B","HM","HM","VIII-D"],
-		["IX-C","C-orridoor Duty","XII-A","Computer Lab","Computer Lab","X-A","Computer Lab","Computer Lab","Computer Lab"],
-		["IX-C","Free","IX-A","IX-C","VIII-D","IX-E","Free","VIII-B","IX-C"],
-		["IX-C","VIII-D","IX-E","IX-A","IX-C","IX-A","VIII-B","Free","VIII-B"],
+		["IX-C","IX-C","IX-A","IX-E","Free","Recess","VIII-D","VIII-B","VIII-D","Free"],
+		["IX-C","IX-C","IX-A","Free","VIII-B","Recess","IX-E","Free","Free","VIII-D"],
+		["IX-C","IX-C","IX-E","IX-A","Free","Recess","VII-B","HM","HM","VIII-D"],
+		["IX-C","Corridoor Duty","XII-A","Computer Lab","Computer Lab","Recess","X-A","Computer Lab","Computer Lab","Computer Lab"],
+		["IX-C","Free","IX-A","IX-C","VIII-D","Recess","IX-E","Free","VIII-B","IX-C"],
+		["IX-C","VIII-D","IX-E","IX-A","IX-C","Recess","IX-A","VIII-B","Free","VIII-B"],
 		"Maths"
+	],
+	"Meenakshi":["Recess",
+		["IX-B","Free","IX-F","X-D","Recess","Free","IX-D","X-E","X-D"],
+		["Corridor Duty","IX-D","IX-B","Recess","X-E","IX-F","IX-D","X-D","Free"],
+		["IX-B","IX-D","X-D","Free","Recess","IX-F","H.M","H.M","X-E"],
+		["IX-B","IX-F","IX-B","X-D","Recess","X-E","Free","Free","IX-D"],
+		["IX-B","Free","IX-F","X-E","Recess","X-D","Free","IX-D","X-F"],
+		["IX-B","IX-F","Free","X-D","Recess","X-E","IX-D","Free","X-E"],
+		"Hindi"
+	],
+	"Shrutika":[
+		["Corrridor Duty","IX-D","Free","IX-B","X-A","IX-F","X-C","IX-D"],
+		["X-A","X-C","IX-F","Free","X-A","IX-B","Free","IX-D"],
+		["X-C","Free","X-A","IX-B","IX-D","H.M","H.M","IX-F"],
+		["IX-D","X-C","X-A","IX-F","Free","IX-F","IX-B","Free"],
+		["Free","IX-D","IX-B","IX-F","Free","X-C","X-A","IX-B"],
+		["Free","X-C","X-A","X-C","Free","IX-F","IX-D","IX-B"],
+		"English"
+	],
+	"Geeta Khurana":[
+		["Free","IX-E","IX-A","X-E","X-E","Corridor Duty","Free","IX-C"],
+		["IX-E","Free","Corridor Duty","IX-A","IX-C","Free","X-E","IX-E"],
+		["Free","X-E","Free","IX-A","IX-E","H.M","H.M","IX-C"],
+		["IX-E","Free","IX-A","X-E","IX-A","Pre-School Rose","IX-C","Free"],
+		["IX-E","Free","X-E","IX-A","Free","IX-C","Corridor Duty","Free"],
+		["IX-E","IX-C","X-E","Free","R.Duty","Free","IX-A","IX-C"]
+
 	]
+
+
+
+
+	
+
 }
