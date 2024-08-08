@@ -3,7 +3,7 @@ from time import strftime,localtime # to get current time for knowing the correc
 from flask import Flask,render_template,request #required to create a webserver for this app
 
 
-period_map=["7:40-8:40","8:40-9:10","9:10-9:45","9:45-10:20","10:20-10:55","10:55-11:20","11:20-11:55","11:55-12:25","12:25-12:55","12:55-1:30"] # map for timings of different periods
+period_map=["7:40-8:40","8:40-9:10","9:10-9:45","9:45-10:20","10:20-10:55","10:55-11:20","11:20-11:55","11:55-12:25","12:25-12:55","12:55-13:30"] # map for timings of different periods
 
 
 def getCurrentPeriod(): # function to predict the current period
@@ -85,7 +85,7 @@ def search(): # json api route for getting the data of facuilties
             return 'Error'
             
 @app.route('/view',methods=["POST"])
-def getData():
+def getData(): # endpoint to get the data of complete timetable for a teacher
    c_time=strftime("%w/%H:%M/%p",localtime()).split("/") # getting current week day number, time and AM/PM
    if request.method == "POST":
         name=request.form['n']
@@ -102,6 +102,28 @@ def getData():
         return 'No data'
 
 
+@app.route('/new',methods=["GET","POST"])
+def add():
+    if request.method=="GET":
+        return render_template("add.html")
+    if request.method == "POST":
+        f=open('data.json','r') #opening the json file which contains the data for timetable
+        data=f.read() # saving contents of above file as text
+        f.close()
+        timetable=json.loads(data) # parsing the above text as a dictionary
+        week_map =["m","t","w","th","f","s"]
+        week = []
+        for i in week_map:
+            day=[]
+            for j in range(0,9):
+               day.append(request.form[f"{i}-{j}"])
+            day=day[0:5]+["Recess"]+day[5:]
+            week.append(day)
+        week.append(request.form['t-subj'])
+        timetable[request.form["t-name"]]=week
 
+        with open('data.json','w') as f: # writing the data received 
+            f.write(json.dumps(timetable))
+        return 'Done'
 
 app.run(debug=True) # starting app

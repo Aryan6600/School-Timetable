@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/static/add.css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="/static/image.ico">
+    <title>Add Timetable for a new Teacher</title>
+</head>
+
+<body>
+    <form action="/new" method="POST" onsubmit="return submitForm(this);" id="form">
+        <div class="container">
+            <div class="alert">
+                Something went wrong please try again
+            </div>
+            <div class="flex">
+                <h3>Faculty Name</h3>
+                <input type="text" name="t-name" placeholder="Enter Faculty Name" required>
+            </div>
+            <div class="flex">
+                <h3>Faculty Subject</h3>
+                <input type="text" name="t-subj" placeholder="Enter Faculty Subject" required>
+            </div>
+            <div class="flex">
+                <h3>Monday</h3>
+                <input type="text" name="m-0" id="m-0" placeholder="Zero period" required>
+                <input type="text" name="m-1" id="m-1" placeholder="First period" required>
+                <input type="text" name="m-2" id="m-2" placeholder="Second Period" required>
+                <input type="text" name="m-3" id="m-3" placeholder="Third Period" required>
+                <input type="text" name="m-4" id="m-4" placeholder="Fourth Period" required>
+                <input type="text" name="m-5" id="m-5" placeholder="Fifth Period" required>
+                <input type="text" name="m-6" id="m-6" placeholder="Sixth Period" required>
+                <input type="text" name="m-7" id="m-7" placeholder="Seventh Period" required>
+                <input type="text" name="m-8" id="m-8" placeholder="Eighth Period" required>
+            </div>
+            <div class="flex">
+                <h3>Tuesday</h3>
+                <input type="text" name="t-0" id="" placeholder="Zero period" required>
+                <input type="text" name="t-1" id="" placeholder="First period" required>
+                <input type="text" name="t-2" id="" placeholder="Second Period" required>
+                <input type="text" name="t-3" id="" placeholder="Third Period" required>
+                <input type="text" name="t-4" id="" placeholder="Fourth Period" required>
+                <input type="text" name="t-5" id="" placeholder="Fifth Period" required>
+                <input type="text" name="t-6" id="" placeholder="Sixth Period" required>
+                <input type="text" name="t-7" id="" placeholder="Seventh Period" required>
+                <input type="text" name="t-8" placeholder="Eighth Period" required>
+            </div>
+            <div class="flex">
+                <h3>Wednesday</h3>
+                <input type="text" name="w-0" id="" placeholder="Zero period" required>
+                <input type="text" name="w-1" id="" placeholder="First period" required>
+                <input type="text" name="w-2" id="" placeholder="Second Period" required>
+                <input type="text" name="w-3" id="" placeholder="Third Period" required>
+                <input type="text" name="w-4" id="" placeholder="Fourth Period" required> 
+                <input type="text" name="w-5" id="" placeholder="Fifth Period" required>
+                <input type="text" name="w-6" id="" placeholder="Sixth Period" required>
+                <input type="text" name="w-7" id="" placeholder="Seventh Period" required>
+                <input type="text" name="w-8" placeholder="Eighth Period" required>
+            </div>
+            <div class="flex">
+                <h3>Thursday</h3>
+                <input type="text" name="th-0" id="" placeholder="Zero period" required>
+                <input type="text" name="th-1" id="" placeholder="First period" required>
+                <input type="text" name="th-2" id="" placeholder="Second Period" required>
+                <input type="text" name="th-3" id="" placeholder="Third Period" required>
+                <input type="text" name="th-4" id="" placeholder="Fourth Period" required>
+                <input type="text" name="th-5" id="" placeholder="Fifth Period" required>
+                <input type="text" name="th-6" id="" placeholder="Sixth Period" required>
+                <input type="text" name="th-7" id="" placeholder="Seventh Period" required>
+                <input type="text" name="th-8" placeholder="Eighth Period">
+            </div>
+            <div class="flex">
+                <h3>Friday</h3>
+                <input type="text" name="f-0" id="" placeholder="Zero period" required>
+                <input type="text" name="f-1" id="" placeholder="First period" required>
+                <input type="text" name="f-2" id="" placeholder="Second Period" required>
+                <input type="text" name="f-3" id="" placeholder="Third Period" required>
+                <input type="text" name="f-4" id="" placeholder="Fourth Period" required>
+                <input type="text" name="f-5" id="" placeholder="Fifth Period" required>
+                <input type="text" name="f-6" id="" placeholder="Sixth Period" required>
+                <input type="text" name="f-7" id="" placeholder="Seventh Period" required>
+                <input type="text" name="f-8" placeholder="Eighth Period" required>
+            </div>
+            <div class="flex">
+                <h3>Saturday</h3>
+                <input type="text" name="s-0" id="" placeholder="Zero period" required>
+                <input type="text" name="s-1" id="" placeholder="First period" required>
+                <input type="text" name="s-2" id="" placeholder="Second Period" required>
+                <input type="text" name="s-3" id="" placeholder="Third Period" required>
+                <input type="text" name="s-4" id="" placeholder="Fourth Period" required>
+                <input type="text" name="s-5" id="" placeholder="Fifth Period" required>
+                <input type="text" name="s-6" id="" placeholder="Sixth Period" required>
+                <input type="text" name="s-7" id="" placeholder="Seventh Period" required>
+                <input type="text" name="s-8" placeholder="Eighth Period" required>
+            </div>
+            <div class="flex">
+                <input type="submit" value="Add">
+            </div>
+        </div>
+    </form>
+    <script>
+        function submitForm(oFormElement) {
+            var xhr = new XMLHttpRequest();
+            xhttp.onreadystatechange = (state)=>{
+	            if (state.target.readyState==4 && state.target.status==200){
+	           
+	            }   
+            }
+            xhr.open(oFormElement.method, oFormElement.getAttribute("action"));
+            xhr.send(new FormData(oFormElement));
+            return false;
+        }
+    </script>
+</body>
+
+</html>
