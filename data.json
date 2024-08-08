@@ -18,7 +18,7 @@
 		"Maths"
 		],
 	"Khushboo Chawla":[
-		["IX-A","X-A","Free","Free","IX-A","Recess","X-D","IX-A","X-F","X-A"],
+		["XI-A","X-A","Free","Free","IX-A","Recess","X-D","IX-A","X-F","X-A"],
 		["IX-A","IX-A","X-F","X-A","Free","Recess","X-D","X-F","Free","X-D"],
 		["IX-A","IX-A","X-F","Free","X-D","Recess","X-A","IX-A","IX-A","X-F"],
 		["IX-A","IX-A","X-A","X-A","X-F","Recess","Free","IX-A","Coridoor Duty","X-F"],
@@ -44,7 +44,7 @@
 		["IX-C","VIII-D","IX-E","IX-A","IX-C","Recess","IX-A","VIII-B","Free","VIII-B"],
 		"Maths"
 	],
-	"Meenakshi":["Recess",
+	"Meenakshi":[
 		["IX-B","Free","IX-F","X-D","Recess","Free","IX-D","X-E","X-D"],
 		["Corridor Duty","IX-D","IX-B","Recess","X-E","IX-F","IX-D","X-D","Free"],
 		["IX-B","IX-D","X-D","Free","Recess","IX-F","H.M","H.M","X-E"],
@@ -54,27 +54,70 @@
 		"Hindi"
 	],
 	"Shrutika":[
-		["Corrridor Duty","IX-D","Free","IX-B","X-A","IX-F","X-C","IX-D"],
-		["X-A","X-C","IX-F","Free","X-A","IX-B","Free","IX-D"],
-		["X-C","Free","X-A","IX-B","IX-D","H.M","H.M","IX-F"],
-		["IX-D","X-C","X-A","IX-F","Free","IX-F","IX-B","Free"],
-		["Free","IX-D","IX-B","IX-F","Free","X-C","X-A","IX-B"],
-		["Free","X-C","X-A","X-C","Free","IX-F","IX-D","IX-B"],
+		["Corrridor Duty","IX-D","Free","Recess","IX-B","X-A","IX-F","X-C","IX-D"],
+		["X-A","X-C","IX-F","Free","Recess","X-A","IX-B","Free","IX-D"],
+		["X-C","Free","X-A","IX-B","Recess","IX-D","H.M","H.M","IX-F"],
+		["IX-D","X-C","X-A","IX-F","Recess","Free","IX-F","IX-B","Free"],
+		["Free","IX-D","IX-B","IX-F","Recess","Free","X-C","X-A","IX-B"],
+		["Free","X-C","X-A","X-C","Recess","Free","IX-F","IX-D","IX-B"],
 		"English"
 	],
 	"Geeta Khurana":[
-		["Free","IX-E","IX-A","X-E","X-E","Corridor Duty","Free","IX-C"],
-		["IX-E","Free","Corridor Duty","IX-A","IX-C","Free","X-E","IX-E"],
-		["Free","X-E","Free","IX-A","IX-E","H.M","H.M","IX-C"],
-		["IX-E","Free","IX-A","X-E","IX-A","Pre-School Rose","IX-C","Free"],
-		["IX-E","Free","X-E","IX-A","Free","IX-C","Corridor Duty","Free"],
-		["IX-E","IX-C","X-E","Free","R.Duty","Free","IX-A","IX-C"]
+		["Free","IX-E","IX-A","X-E","Recess","X-E","Corridor Duty","Free","IX-C"],
+		["IX-E","Free","Corridor Duty","Recess","IX-A","Recess","IX-C","Free","X-E","IX-E"],
+		["Free","X-E","Free","IX-A","Recess","IX-E","H.M","H.M","IX-C"],
+		["IX-E","Free","IX-A","X-E","Recess","IX-A","Pre-School Rose","IX-C","Free"],
+		["IX-E","Free","X-E","IX-A","Recess","Free","IX-C","Corridor Duty","Free"],
+		["IX-E","IX-C","X-E","Free","Recess","R.Duty","Free","IX-A","IX-C"],
+		"English"
+	],
+	"Suchismita":[
+		["IX-F","IX-B","X-F","IX-C","Recess","X-C","X-C","Free","IX-A"],
+		["IX-B","IX-B","X-B","X-C","Recess","IX-A","IX-A","IX-C","Free"],
+		["IX-F","Free","X-C","X-F","Recess","IX-A","H.M","H.M","IX-E"],
+		["IX-C","IX-C","X-B","Free","Recess","IX-E","IX-B","Free","X-C"],
+		["IX-F","IX-B","Free","IX-C","Recess","X-B","X-B","X-F","IX-E"],
+		["Free","IX-A","Biology Lab","Biology Lab","Recess","Free","X-B","IX-F","IX-F"],
+		"Biology"
+	],
+	"Neha Sarin":[
+		["Physics Lab","Physics Lab","X-D","Free","Recess","Free","X-B","Physics Lab","Physics Lab"],
+		["Physics Lab","Physics Lab","Physics Lab","Physics Lab","Recess","Free","X-A","X-F","IX-B"],
+		["Physics Lab","Physics Lab","X-F","Corridor Duty","Recess","IX-B","X-B","Free","X-D"],
+		["Physics Lab","Physics Lab","Physics Lab","Physics Lab","Recess","Physics Lab","Physics Lab","H.M (in X-A)","Free"],
+		["Physics Lab","Physics Lab","Free","X-B","Recess","Physics Lab","Physics Lab","Physics Lab","Physics Lab"],
+		["X-A","Free","X-F","Free","Recess","Physics Lab","Physics Lab","IX-B","Free"],
+		"Physics"
+	],
+	"Aparna Pandey":[
+		["Free","X-C","XI-F","XII-F","Recess","X-B","Free","x-b","Free"],
+		["Corridor Duty","Free","X-C","Recess","XI-F","XII-F","X-B","X-C","XII-F"],
+		["Free","X-B","Free","X-C","Recess","XII-F","Free","XI-F","X-B"],
+		["X-C","X-B","Free","XI-F","Recess","X-B","H.M","H.M","XII-F"],
+		["Free","X-C","X-C","XI-F","Recess","XII-F","XI-F","X-B","XII-F"],
+		["X-C","Free","X-B","XII-F","Recess","Free","Free","X-C","XI-F"],
+		"Social Science/History"
+	],
+	"Priyanka Kapoor":[
+		["X-C","IX-F","X-C","Free","Recess","X-F","X-E","X-A","Free"],
+		["X-C","Free","X-E","IX-F","Recess","X-F","Free","X-A","IX-F"],
+		["X-F","IX-F","Free","X-E","Recess","Corridor Duty","Free","X-A","X-C"],
+		["Free","X-E","IX-F","X-C","Recess","X-F","H.M","H.M","X-A"],
+		["X-C","X-E","X-A","Free","Recess","IX-F","X-F","Free","X-A"],
+		["X-F","X-A","IX-F","X-E","Recess","X-F","Free","X-E","X-C"],
+		"Maths"
 
+	],
+	"Apurva Chhabra":[
+                ["VI-A","VII-B","VIII-A","VII-F","Free","VII-C","VII-F","Free"],
+                ["VIII-A","VII-B","VI-A","VII-C","Free","H.M","H.M","VII-F"],
+                ["VI-A","VIII-A","Free","Free","VII-B","VII-C","VII-F","VI-A"],
+                ["VI-A","VII-C","Free","VII-B","VII-F","VIII-A","Free","VII-C"],
+                ["Corridor Duty","VI-A","VIII-A","VII-B","VII-C","Free","VII-B","VII-F"],
+                ["VI-A","Free","VII-B","VII-C","VII-F","VIII-A","Free","VIII-A"],
+                "Science"
+        ],
+        "Jyoti Bala":[
+                ["VI-C","VI-C","VI-E","IX-E","IX-E",""]
 	]
-
-
-
-
-	
-
 }

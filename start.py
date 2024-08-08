@@ -3,12 +3,12 @@ from time import strftime,localtime # to get current time for knowing the correc
 from flask import Flask,render_template,request #required to create a webserver for this app
 
 
-period_map=["7:40-8:20","8:20-9:00","9:00-9:40","9:40-10:20","10:20-11:00","11:00-11:40","11:40-12:20","12:20-13:00","13:00-13:40"] # map for timings of different periods
+period_map=["7:40-8:40","8:40-9:10","9:10-9:45","9:45-10:20","10:20-10:55","10:55-11:20","11:20-11:55","11:55-12:25","12:25-12:55","12:55-1:30"] # map for timings of different periods
 
 
 def getCurrentPeriod(): # function to predict the current period
     c_time=strftime("%w/%H:%M/%p",localtime()).split("/") # getting current week day number, time and AM/PM
-    print(c_time)
+    # print(c_time)
     period=0 # setting initial value of period to be 0
     for timing in period_map: # now looping through every time range in map of timings to find the current range of time
         limits=timing.split("-")  # seprating starting time and ending time of period
@@ -20,16 +20,17 @@ def getCurrentPeriod(): # function to predict the current period
         #print(c_time[1].split(":")[0])
         #print(c_time[1].split(":")[1])
         if int(c_time[1].split(":")[0])>=int(p_start[0]) and int(c_time[1].split(":")[0])<=int(p_end[0]): # checking if current hour is in thw range of this period
-            #print("True")
+            # print("- True")
             if int(c_time[1].split(":")[0])==int(p_end[0]): # checking if current hour is equal to ending hour
                                                             # if it is equal then we check for minutes to be sure
-                #print("True")
+                # print("True")
                 if int(c_time[1].split(":")[1])<=int(p_end[1]):
-                    #print("True")
+                    # print("True")
                     return period # if this period matches with current timings then return the period value
                 period+=1
                 continue
-            return period
+            if int(c_time[1].split(":")[1])>=int(p_start[1]):
+                return period
         period+=1
     return 999 # if no period matches then return this
 
@@ -67,7 +68,7 @@ def search(): # json api route for getting the data of facuilties
                     i+=1
             data=dict()
             period_no=getCurrentPeriod()
-            #print(period_no)
+            # print(period_no)
             if period_no==999 or int(c_time[0])==0:
                 return '{"No Data for after school hours":["[Not Defined]","None"]}'
             
@@ -83,14 +84,22 @@ def search(): # json api route for getting the data of facuilties
         except:
             return 'Error'
             
-#@app.route('/view')
-#def getData():
- #   name=request.args['n']
-  #  if name==None or name=="":
-   #     return 'Invalid Parameters'
-    #f_data=timetable[name]
-    #print(f_data)
-    #return render_template('view.html',data=f_data,name=name)
+@app.route('/view',methods=["POST"])
+def getData():
+   c_time=strftime("%w/%H:%M/%p",localtime()).split("/") # getting current week day number, time and AM/PM
+   if request.method == "POST":
+        name=request.form['n']
+        if name==None or name=="":
+            return 'Invalid Parameters'
+        f=open('data.json','r') #opening the json file which contains the data for timetable
+        data=f.read() # saving contents of above file as text
+        f.close()
+        timetable=json.loads(data)
+        faculties=timetable.keys()
+        if name in faculties:
+            f_data=timetable[name]
+            return json.dumps({"data":f_data,"day":int(c_time[0])-1,"period":getCurrentPeriod()})
+        return 'No data'
 
 
 
