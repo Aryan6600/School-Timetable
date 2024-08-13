@@ -53,6 +53,7 @@ body {
 .flex{
     margin-bottom: 1rem;
     padding: 1rem;
+    color: var(--text-color);
     border-bottom: 1px solid var(--border);
 }
 input[type="submit"]{

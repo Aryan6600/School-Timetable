@@ -3,12 +3,16 @@ from time import strftime,localtime # to get current time for knowing the correc
 from flask import Flask,render_template,request #required to create a webserver for this app
 
 
-period_map=["7:40-8:40","8:40-9:10","9:10-9:45","9:45-10:20","10:20-10:55","10:55-11:20","11:20-11:55","11:55-12:25","12:25-12:55","12:55-13:30"] # map for timings of different periods
+sr_period_map=["7:40-8:40","8:40-9:10","9:10-9:45","9:45-10:20","10:20-10:55","10:55-11:20","11:20-11:55","11:55-12:25","12:25-12:55","12:55-13:30"] # map for timings of different periods
+jr_period_map=["7:40-8:40","8:40-9:10","9:10-9:45","9:45-10:20","10:20-10:45","10:45-11:20","11:20-11:55","11:55-12:25","12:25-12:55","12:55-13:30"] # map for timings of different periods
 
 
-def getCurrentPeriod(): # function to predict the current period
+def getCurrentPeriod(is_sr=True): # function to predict the current period
     c_time=strftime("%w/%H:%M/%p",localtime()).split("/") # getting current week day number, time and AM/PM
     # print(c_time)
+    period_map = sr_period_map
+    if not is_sr:
+        period_map = jr_period_map
     period=0 # setting initial value of period to be 0
     for timing in period_map: # now looping through every time range in map of timings to find the current range of time
         limits=timing.split("-")  # seprating starting time and ending time of period
@@ -113,17 +117,27 @@ def add():
         timetable=json.loads(data) # parsing the above text as a dictionary
         week_map =["m","t","w","th","f","s"]
         week = []
+        is_jr=False # whether teacher is junior or senior
+        try:
+            if request.form['is_jr']=="on" :# if is junior checkboxe is checked then junior teacher 
+                is_jr=True
+        except:
+            pass
         for i in week_map:
             day=[]
             for j in range(0,9):
                day.append(request.form[f"{i}-{j}"])
-            day=day[0:5]+["Recess"]+day[5:]
+            if is_jr:
+                day=day[0:4]+["Recess"]+day[4:]
+            else:
+                day=day[0:5]+["Recess"]+day[5:]
             week.append(day)
         week.append(request.form['t-subj'])
+        week.append(is_jr)
         timetable[request.form["t-name"]]=week
 
         with open('data.json','w') as f: # writing the data received 
             f.write(json.dumps(timetable))
         return 'Done'
 
-app.run(debug=True) # starting app
+app.run(debug=True,port=80) # starting app
