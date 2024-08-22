@@ -138,6 +138,10 @@ body{
   background: var(--modal-bg);
   padding: 1rem;
   border-radius: 10px;
+  transition: all 0.5s;
+}
+.modal-header span:hover{
+  background: rgb(41, 41, 41);
 }
 .modal-content table{
   border: none;

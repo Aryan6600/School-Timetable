@@ -140,4 +140,4 @@ def add():
             f.write(json.dumps(timetable))
         return 'Done'
 
-app.run(debug=True,port=80) # starting app
+app.run(debug=True,port=6600) # starting app
