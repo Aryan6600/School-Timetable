@@ -5,6 +5,32 @@ let modal = document.querySelector('#popup')
 let closeBtn = document.querySelector('#close')
 let modal_title=document.querySelector('#modal-title')
 let table=document.querySelector('#table')
+const creators_section=document.querySelector("#creators")
+
+const creators = ["Twisha Singh","Aryan Tiwari"].reverse()
+const guide_teachers=["Diwakar Mishra",,"Captain Sir"]
+
+let text="Created by : "
+
+for (let i = 0; i < creators.length; i++) {
+    const creator = creators[i];
+    text+=`${creator}`
+    if (i != creators.length -1 ){
+        text+=", "
+    }
+}
+
+// text+=", Under the Guidance of : "
+
+// for (let i = 0; i < guide_teachers.length; i++) {
+//     const teach = guide_teachers[i];
+//     text+=teach
+//     if (i != guide_teachers.length -1 ){
+//         text+=", "
+//     }
+// }
+
+creators_section.innerText = text
 
 
 closeBtn.addEventListener('click',()=>closeModal())

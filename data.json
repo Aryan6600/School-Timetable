@@ -10,7 +10,8 @@
       "XII-B",
       "XI-B",
       "Computer Lab",
-      "XII-A"
+      "XII-A",
+      "Computer Lab"
     ],
     [
       "Computer Lab",
@@ -22,7 +23,8 @@
       "XI-A",
       "XII-B",
       "Computer Lab",
-      "XI-B"
+      "XI-B",
+      "Computer Lab"
     ],
     [
       "Computer Lab",
@@ -34,7 +36,8 @@
       "XII-A",
       "XI-A",
       "Computer Lab",
-      "XII-B"
+      "XII-B",
+      "Computer Lab"
     ],
     [
       "Computer Lab",
@@ -46,6 +49,7 @@
       "Recess",
       "Computer Lab",
       "XI-A",
+      "Computer Lab",
       "Computer Lab"
     ],
     [
@@ -58,6 +62,7 @@
       "XII-A",
       "Computer Lab",
       "XI-B",
+      "Computer Lab",
       "Computer Lab"
     ],
     [
@@ -70,6 +75,7 @@
       "XII-A",
       "Computer Lab",
       "XII-B",
+      "Computer Lab",
       "Computer Lab"
     ],
     "Computer Science"
@@ -85,7 +91,8 @@
       "XII-D",
       "Free",
       "XII-A",
-      "XI-B"
+      "XI-B",
+      "S-3"
     ],
     [
       "XII-A",
@@ -97,7 +104,8 @@
       "Free",
       "Free",
       "XII-D",
-      "XI-A"
+      "XI-A",
+      "S-3"
     ],
     [
       "XII-A",
@@ -109,7 +117,8 @@
       "XI-B",
       "XI-B",
       "Free",
-      "XI-B"
+      "XI-B",
+      "S-3"
     ],
     [
       "XII-A",
@@ -121,7 +130,8 @@
       "Corridoor Duty",
       "XII-A",
       "XI-B",
-      "XII-A"
+      "XII-A",
+      "S-3"
     ],
     [
       "XII-A",
@@ -133,7 +143,8 @@
       "Free",
       "Free",
       "XII-A",
-      "XII-D"
+      "XII-D",
+      "S-3"
     ],
     [
       "XII-A",
@@ -145,7 +156,8 @@
       "XI-A",
       "XI-B",
       "Free",
-      "XI-A"
+      "XI-A",
+      "S-3"
     ],
     "Maths"
   ],
@@ -160,7 +172,8 @@
       "X-D",
       "IX-A",
       "X-F",
-      "X-A"
+      "X-A",
+      "S-3"
     ],
     [
       "IX-A",
@@ -172,7 +185,8 @@
       "X-D",
       "X-F",
       "Free",
-      "X-D"
+      "X-D",
+      "S-3"
     ],
     [
       "IX-A",
@@ -184,7 +198,8 @@
       "X-A",
       "IX-A",
       "IX-A",
-      "X-F"
+      "X-F",
+      "S-3"
     ],
     [
       "IX-A",
@@ -196,7 +211,8 @@
       "Free",
       "IX-A",
       "Coridoor Duty",
-      "X-F"
+      "X-F",
+      "S-3"
     ],
     [
       "IX-A",
@@ -208,7 +224,8 @@
       "Free",
       "X-A",
       "X-D",
-      "IX-A"
+      "IX-A",
+      "S-3"
     ],
     [
       "IX-A",
@@ -220,7 +237,8 @@
       "Free",
       "X-A",
       "X-D",
-      "X-A"
+      "X-A",
+      "S-3"
     ],
     "Social Science"
   ],
@@ -235,6 +253,7 @@
       "XII-A",
       "XI-A",
       "XI-B",
+      "Physics Lab",
       "Physics Lab"
     ],
     [
@@ -310,7 +329,8 @@
       "VIII-D",
       "VIII-B",
       "VIII-D",
-      "Free"
+      "Free",
+      "S-6"
     ],
     [
       "IX-C",
@@ -322,7 +342,8 @@
       "IX-E",
       "Free",
       "Free",
-      "VIII-D"
+      "VIII-D",
+      "S-6"
     ],
     [
       "IX-C",
@@ -334,7 +355,8 @@
       "VII-B",
       "HM",
       "HM",
-      "VIII-D"
+      "VIII-D",
+      "S-6"
     ],
     [
       "IX-C",
@@ -346,7 +368,8 @@
       "X-A",
       "Computer Lab",
       "Computer Lab",
-      "Computer Lab"
+      "Computer Lab",
+      "S-6"
     ],
     [
       "IX-C",
@@ -358,7 +381,8 @@
       "IX-E",
       "Free",
       "VIII-B",
-      "IX-C"
+      "IX-C",
+      "S-6"
     ],
     [
       "IX-C",
@@ -370,7 +394,8 @@
       "IX-A",
       "VIII-B",
       "Free",
-      "VIII-B"
+      "VIII-B",
+      "S-6"
     ],
     "Maths"
   ],
@@ -385,7 +410,8 @@
       "Free",
       "IX-D",
       "X-E",
-      "X-D"
+      "X-D",
+      "S-3"
     ],
     [
       "IX-B",
@@ -397,7 +423,8 @@
       "IX-F",
       "IX-D",
       "X-D",
-      "Free"
+      "Free",
+      "S-3"
     ],
     [
       "IX-B",
@@ -409,7 +436,8 @@
       "IX-F",
       "H.M",
       "H.M",
-      "X-E"
+      "X-E",
+      "S-3"
     ],
     [
       "IX-B",
@@ -421,7 +449,8 @@
       "X-E",
       "Free",
       "Free",
-      "IX-D"
+      "IX-D",
+      "S-3"
     ],
     [
       "IX-B",
@@ -433,7 +462,8 @@
       "X-D",
       "Free",
       "IX-D",
-      "X-F"
+      "X-F",
+      "S-3"
     ],
     [
       "IX-B",
@@ -445,7 +475,8 @@
       "X-E",
       "IX-D",
       "Free",
-      "X-E"
+      "X-E",
+      "S-3"
     ],
     "Hindi"
   ],
@@ -460,7 +491,8 @@
       "X-A",
       "IX-F",
       "X-C",
-      "IX-D"
+      "IX-D",
+      "S-3"
     ],
     [
       "IX-D",
@@ -472,7 +504,8 @@
       "X-A",
       "IX-B",
       "Free",
-      "IX-D"
+      "IX-D",
+      "S-3"
     ],
     [
       "IX-D",
@@ -484,7 +517,8 @@
       "IX-D",
       "H.M",
       "H.M",
-      "IX-F"
+      "IX-F",
+      "S-3"
     ],
     [
       "IX-D",
@@ -496,7 +530,8 @@
       "Free",
       "IX-F",
       "IX-B",
-      "Free"
+      "Free",
+      "S-3"
     ],
     [
       "IX-D",
@@ -508,7 +543,8 @@
       "Free",
       "X-C",
       "X-A",
-      "IX-B"
+      "IX-B",
+      "S-3"
     ],
     [
       "IX-D",
@@ -520,7 +556,8 @@
       "Free",
       "IX-F",
       "IX-D",
-      "IX-B"
+      "IX-B",
+      "S-3"
     ],
     "English"
   ],
@@ -535,7 +572,8 @@
       "X-E",
       "Corridor Duty",
       "Free",
-      "IX-C"
+      "IX-C",
+      "S-4"
     ],
     [
       "IX-E",
@@ -548,7 +586,8 @@
       "IX-C",
       "Free",
       "X-E",
-      "IX-E"
+      "IX-E",
+      "S-4"
     ],
     [
       "IX-E",
@@ -560,7 +599,8 @@
       "IX-E",
       "H.M",
       "H.M",
-      "IX-C"
+      "IX-C",
+      "S-4"
     ],
     [
       "IX-E",
@@ -572,7 +612,8 @@
       "IX-A",
       "Pre-School Rose",
       "IX-C",
-      "Free"
+      "Free",
+      "S-4"
     ],
     [
       "IX-E",
@@ -584,7 +625,8 @@
       "Free",
       "IX-C",
       "Corridor Duty",
-      "Free"
+      "Free",
+      "S-4"
     ],
     [
       "IX-E",
@@ -596,7 +638,8 @@
       "R.Duty",
       "Free",
       "IX-A",
-      "IX-C"
+      "IX-C",
+      "S-4"
     ],
     "English"
   ],
@@ -611,7 +654,8 @@
       "X-C",
       "X-C",
       "Free",
-      "IX-A"
+      "IX-A",
+      "Bio Lab"
     ],
     [
       "IX-F",
@@ -623,7 +667,8 @@
       "IX-A",
       "IX-A",
       "IX-C",
-      "Free"
+      "Free",
+      "Bio Lab"
     ],
     [
       "IX-F",
@@ -635,7 +680,8 @@
       "IX-A",
       "H.M",
       "H.M",
-      "IX-E"
+      "IX-E",
+      "Bio Lab"
     ],
     [
       "IX-F",
@@ -647,7 +693,8 @@
       "IX-E",
       "IX-B",
       "Free",
-      "X-C"
+      "X-C",
+      "Bio Lab"
     ],
     [
       "IX-F",
@@ -659,7 +706,8 @@
       "X-B",
       "X-B",
       "X-F",
-      "IX-E"
+      "IX-E",
+      "Bio Lab"
     ],
     [
       "IX-F",
@@ -671,7 +719,8 @@
       "Free",
       "X-B",
       "IX-F",
-      "IX-F"
+      "IX-F",
+      "Bio Lab"
     ],
     "Biology"
   ],
@@ -686,6 +735,7 @@
       "Free",
       "X-B",
       "Physics Lab",
+      "Physics Lab",
       "Physics Lab"
     ],
     [
@@ -698,7 +748,8 @@
       "Free",
       "X-A",
       "X-F",
-      "IX-B"
+      "IX-B",
+      "Physics Lab"
     ],
     [
       "X-A",
@@ -710,7 +761,8 @@
       "IX-B",
       "X-B",
       "Free",
-      "X-D"
+      "X-D",
+      "Physics Lab"
     ],
     [
       "X-A",
@@ -722,7 +774,8 @@
       "Physics Lab",
       "Physics Lab",
       "H.M (in X-A)",
-      "Free"
+      "Free",
+      "Physics Lab"
     ],
     [
       "X-A",
@@ -731,6 +784,7 @@
       "Free",
       "X-B",
       "Recess",
+      "Physics Lab",
       "Physics Lab",
       "Physics Lab",
       "Physics Lab",
@@ -746,7 +800,8 @@
       "Physics Lab",
       "Physics Lab",
       "IX-B",
-      "Free"
+      "Free",
+      "Physics Lab"
     ],
     "Physics"
   ],
@@ -761,7 +816,8 @@
       "X-B",
       "Free",
       "x-b",
-      "Free"
+      "Free",
+      "S-3"
     ],
     [
       "X-B",
@@ -773,7 +829,8 @@
       "XII-F",
       "X-B",
       "X-C",
-      "XII-F"
+      "XII-F",
+      "S-3"
     ],
     [
       "X-B",
@@ -785,7 +842,8 @@
       "XII-F",
       "Free",
       "XI-F",
-      "X-B"
+      "X-B",
+      "S-3"
     ],
     [
       "X-B",
@@ -797,7 +855,8 @@
       "X-B",
       "H.M",
       "H.M",
-      "XII-F"
+      "XII-F",
+      "S-3"
     ],
     [
       "X-B",
@@ -809,7 +868,8 @@
       "XII-F",
       "XI-F",
       "X-B",
-      "XII-F"
+      "XII-F",
+      "S-3"
     ],
     [
       "X-B",
@@ -821,7 +881,8 @@
       "Free",
       "Free",
       "X-C",
-      "XI-F"
+      "XI-F",
+      "S-3"
     ],
     "Social Science/History"
   ],
@@ -836,7 +897,8 @@
       "X-F",
       "X-E",
       "X-A",
-      "Free"
+      "Free",
+      "S-4"
     ],
     [
       "X-C",
@@ -848,7 +910,8 @@
       "X-F",
       "Free",
       "X-A",
-      "IX-F"
+      "IX-F",
+      "S-4"
     ],
     [
       "X-C",
@@ -860,7 +923,8 @@
       "Corridor Duty",
       "Free",
       "X-A",
-      "X-C"
+      "X-C",
+      "S-4"
     ],
     [
       "X-C",
@@ -872,7 +936,8 @@
       "X-F",
       "H.M",
       "H.M",
-      "X-A"
+      "X-A",
+      "S-4"
     ],
     [
       "X-C",
@@ -884,7 +949,8 @@
       "IX-F",
       "X-F",
       "Free",
-      "X-A"
+      "X-A",
+      "S-4"
     ],
     [
       "X-C",
@@ -896,7 +962,8 @@
       "X-F",
       "Free",
       "X-E",
-      "X-C"
+      "X-C",
+      "S-4"
     ],
     "Maths"
   ],
@@ -911,7 +978,8 @@
       "Free",
       "VII-C",
       "VII-F",
-      "Free"
+      "Free",
+      "S-6"
     ],
     [
       "VI-A",
@@ -923,7 +991,8 @@
       "Free",
       "H.M",
       "H.M",
-      "VII-F"
+      "VII-F",
+      "S-6"
     ],
     [
       "VI-A",
@@ -935,7 +1004,8 @@
       "VII-B",
       "VII-C",
       "VII-F",
-      "VI-A"
+      "VI-A",
+      "S-6"
     ],
     [
       "VI-A",
@@ -947,7 +1017,8 @@
       "VII-F",
       "VIII-A",
       "Free",
-      "VII-C"
+      "VII-C",
+      "S-6"
     ],
     [
       "VI-A",
@@ -959,7 +1030,8 @@
       "VII-C",
       "Free",
       "VII-B",
-      "VII-F"
+      "VII-F",
+      "S-6"
     ],
     [
       "VI-A",
@@ -971,7 +1043,8 @@
       "VII-F",
       "VIII-A",
       "Free",
-      "VIII-A"
+      "VIII-A",
+      "S-6"
     ],
     "SC",
     true
@@ -987,7 +1060,8 @@
       "IX-E",
       "VI-G",
       "Free",
-      "C.DUTY"
+      "C.DUTY",
+      "S-6"
     ],
     [
       "VI-B",
@@ -999,7 +1073,8 @@
       "VI-E",
       "H.M",
       "H.M",
-      "VI-G"
+      "VI-G",
+      "S-6"
     ],
     [
       "VI-B",
@@ -1011,7 +1086,8 @@
       "VI-G",
       "VI-E",
       "VI-G",
-      "Free"
+      "Free",
+      "S-6"
     ],
     [
       "VI-B",
@@ -1023,7 +1099,8 @@
       "VI-E",
       "VI-G",
       "Free",
-      "VI-B"
+      "VI-B",
+      "S-6"
     ],
     [
       "VI-B",
@@ -1035,7 +1112,8 @@
       "VI-E",
       "VI-G",
       "Free",
-      "VI-C"
+      "VI-C",
+      "S-6"
     ],
     [
       "VI-B",
@@ -1047,7 +1125,8 @@
       "IX-E",
       "Free",
       "VI-G",
-      "VI-E"
+      "VI-E",
+      "S-6"
     ],
     "Hindi",
     true
@@ -1063,7 +1142,8 @@
       "IV-F",
       "H.M",
       "H.M",
-      "V-B"
+      "V-B",
+      "S-1"
     ],
     [
       "IV-A",
@@ -1128,7 +1208,7 @@
     "Science",
     true
   ],
-  "Aarti Gosa": [
+  "Arti Gosai": [
     [
       "IV-C",
       "IV-C",
@@ -1139,7 +1219,8 @@
       "Free",
       "H.M",
       "H.M",
-      "V-D"
+      "V-D",
+      "S-2"
     ],
     [
       "IV-C",
@@ -1151,7 +1232,8 @@
       "V-C",
       "V-D",
       "IV-A",
-      "Free"
+      "Free",
+      "S-2"
     ],
     [
       "IV-C",
@@ -1163,7 +1245,8 @@
       "V-C",
       "V-D",
       "Free",
-      "IV-C"
+      "IV-C",
+      "S-2"
     ],
     [
       "IV-C",
@@ -1175,7 +1258,8 @@
       "IV-A",
       "V-D",
       "Free",
-      "IV-E"
+      "IV-E",
+      "S-2"
     ],
     [
       "IV-C",
@@ -1187,7 +1271,8 @@
       "V-D",
       "IV-A",
       "Free",
-      "V-D"
+      "V-D",
+      "S-2"
     ],
     [
       "IV-C",
@@ -1199,7 +1284,8 @@
       "V-D",
       "Free",
       "IV-A",
-      "V-C"
+      "V-C",
+      "S-2"
     ],
     "Hindi",
     true
@@ -1215,7 +1301,8 @@
       "Corridor Duty",
       "Free",
       "Vll-C",
-      "Vll-F"
+      "Vll-F",
+      "S-5"
     ],
     [
       "Vl-D",
@@ -1227,7 +1314,8 @@
       "Vll-F",
       "H.M",
       "H.M",
-      "Vll-C"
+      "Vll-C",
+      "S-5"
     ],
     [
       "Vl-D",
@@ -1239,7 +1327,8 @@
       "Vl-F",
       "Vll-F",
       "Free",
-      "Vll-C"
+      "Vll-C",
+      "S-5"
     ],
     [
       "Vl-D",
@@ -1251,7 +1340,8 @@
       "Free",
       "Vll-C",
       "Free",
-      "Vl-F"
+      "Vl-F",
+      "S-5"
     ],
     [
       "Vl-D",
@@ -1263,7 +1353,8 @@
       "Vll-A",
       "Vll-C",
       "Vll-F",
-      "Vl-D"
+      "Vl-D",
+      "S-5"
     ],
     [
       "Vl-D",
@@ -1275,7 +1366,8 @@
       "Vll-A",
       "Vll-C",
       "Free",
-      "Vll-A"
+      "Vll-A",
+      "S-5"
     ],
     "Maths",
     true
@@ -1291,7 +1383,8 @@
       "V-C",
       "H.M",
       "H.M",
-      "V-E"
+      "V-E",
+      "S-2"
     ],
     [
       "IV-D",
@@ -1367,7 +1460,8 @@
       "V-A",
       "V-E",
       "Free",
-      "IV-F"
+      "IV-F",
+      "S-1"
     ],
     [
       "V-E",
@@ -1379,7 +1473,8 @@
       "IV-B",
       "IV-F",
       "Free",
-      "V-A"
+      "V-A",
+      "S-1"
     ],
     [
       "V-E",
@@ -1391,7 +1486,8 @@
       "V-A",
       "IV-D",
       "IV-B",
-      "C. Duty"
+      "C. Duty",
+      "S-1"
     ],
     [
       "V-E",
@@ -1403,7 +1499,8 @@
       "IV-D",
       "V-A",
       "IV-B",
-      "Free"
+      "Free",
+      "S-1"
     ],
     [
       "V-E",
@@ -1415,7 +1512,8 @@
       "IV-D",
       "IV-F",
       "Free",
-      "IV-F"
+      "IV-F",
+      "S-1"
     ],
     [
       "V-E",
@@ -1427,7 +1525,8 @@
       "Free",
       "IV-B",
       "IV-D",
-      "Free"
+      "Free",
+      "S-1"
     ],
     "Hindi",
     true
@@ -1443,7 +1542,8 @@
       "V-B",
       "VI-D",
       "Free",
-      "Vl-E"
+      "Vl-E",
+      "S-6"
     ],
     [
       "Vl-E",
@@ -1455,7 +1555,8 @@
       "V-B",
       "H.M",
       "H.M",
-      "Vl-D"
+      "Vl-D",
+      "S-6"
     ],
     [
       "Vl-E",
@@ -1467,7 +1568,8 @@
       "Free",
       "Pre-school Lily",
       "V-E",
-      "Vl-D"
+      "Vl-D",
+      "S-6"
     ],
     [
       "Vl-E",
@@ -1479,7 +1581,8 @@
       "Free",
       "Corridor Duty ",
       "Vl-B",
-      "V-E"
+      "V-E",
+      "S-6"
     ],
     [
       "Vl-E",
@@ -1491,7 +1594,8 @@
       "Vl-D",
       "Free",
       "Vl-B",
-      "V-B"
+      "V-B",
+      "S-6"
     ],
     [
       "Vl-E",
@@ -1503,7 +1607,8 @@
       "Vl-E",
       "Free",
       "Vl-D",
-      "V-E"
+      "V-E",
+      "S-6"
     ],
     "Social Science ",
     true
@@ -1519,7 +1624,8 @@
       "VI-F",
       "Free",
       "Vll-A",
-      "Vll-C"
+      "Vll-C",
+      "S-5"
     ],
     [
       "Vl-F",
@@ -1531,7 +1637,8 @@
       "Free",
       "H.M",
       "H.M",
-      "VII-A"
+      "VII-A",
+      "S-5"
     ],
     [
       "Vl-F",
@@ -1543,7 +1650,8 @@
       "VI-A",
       "Pre-Primary Dahlia",
       "VII-C",
-      "VII-A"
+      "VII-A",
+      "S-5"
     ],
     [
       "Vl-F",
@@ -1555,7 +1663,8 @@
       "VII-C",
       "VI-A",
       "VI-D",
-      "Free"
+      "Free",
+      "S-5"
     ],
     [
       "Vl-F",
@@ -1567,7 +1676,8 @@
       "Free",
       "Corridor Duty ",
       "VI-D",
-      "VII-A"
+      "VII-A",
+      "S-5"
     ],
     [
       "Vl-F",
@@ -1579,12 +1689,13 @@
       "VI-A",
       "VI-D",
       "VII-C",
-      "Free"
+      "Free",
+      "S-5"
     ],
     "Hindi",
     true
   ],
-  "Mandip Bhalla": [
+  "Mandeep Bhalla": [
     [
       "VI-C",
       "VI-C",
@@ -1595,7 +1706,8 @@
       "VII-D",
       "Free",
       "VII-D",
-      "VI-F"
+      "VI-F",
+      "S-6"
     ],
     [
       "VI-C",
@@ -1660,7 +1772,7 @@
     "Social Science ",
     true
   ],
-  "Chhavi": [
+  "Chhavi Arora": [
     [
       "VII-C",
       "VI-C",
@@ -1671,7 +1783,8 @@
       "VI-G",
       "Free",
       "VI-G",
-      "VIII-F"
+      "VIII-F",
+      "S-5"
     ],
     [
       "VII-C",
@@ -1683,7 +1796,8 @@
       "VI-G",
       "VII-A",
       "VIII-F",
-      "VIII-E"
+      "VIII-E",
+      "S-5"
     ],
     [
       "VII-C",
@@ -1695,7 +1809,8 @@
       "VII-A",
       "VIII-E",
       "VIII-F",
-      "VI-G"
+      "VI-G",
+      "S-5"
     ],
     [
       "VII-C",
@@ -1707,7 +1822,8 @@
       "VIII-F",
       "Free",
       "VIII-E",
-      "VII-A"
+      "VII-A",
+      "S-5"
     ],
     [
       "VII-C",
@@ -1719,7 +1835,8 @@
       "VI-G",
       "Pre-school Lily ",
       "VIII-F",
-      "VII-C"
+      "VII-C",
+      "S-5"
     ],
     [
       "VII-C",
@@ -1731,7 +1848,8 @@
       "Free",
       "VIII-F",
       "VII-A",
-      "VIII-F"
+      "VIII-F",
+      "S-5"
     ],
     "English ",
     true
@@ -1747,7 +1865,8 @@
       "VII-B",
       "VII-F",
       "V-B",
-      "Free"
+      "Free",
+      "S-5"
     ],
     [
       "VII-D",
@@ -1759,7 +1878,8 @@
       "Corridor Duty ",
       "VII-B",
       "V-B",
-      "Free"
+      "Free",
+      "S-5"
     ],
     [
       "VII-D",
@@ -1771,7 +1891,8 @@
       "VII-F",
       "Free",
       "V-F",
-      "V-B"
+      "V-B",
+      "S-5"
     ],
     [
       "VII-D",
@@ -1783,7 +1904,8 @@
       "Free",
       "V-F",
       "V-B",
-      "Free"
+      "Free",
+      "S-5"
     ],
     [
       "VII-D",
@@ -1795,7 +1917,8 @@
       "VII-B",
       "V-B",
       "V-F",
-      "Free"
+      "Free",
+      "S-5"
     ],
     [
       "VII-D",
@@ -1807,7 +1930,8 @@
       "V-F",
       "V-B",
       "Free",
-      "VII-B"
+      "VII-B",
+      "S-5"
     ],
     "Hindi",
     true
@@ -1899,7 +2023,8 @@
       "VI-D",
       "VI-F",
       "Free",
-      "VI-D"
+      "VI-D",
+      "S-5"
     ],
     [
       "VI-G",
@@ -1911,7 +2036,8 @@
       "Free",
       "H.M",
       "H.M",
-      "VI-F"
+      "VI-F",
+      "S-5"
     ],
     [
       "VI-G",
@@ -1923,7 +2049,8 @@
       "VI-E",
       "VI-D",
       "Free",
-      "Corridor Duty "
+      "Corridor Duty ",
+      "S-5"
     ],
     [
       "VI-G",
@@ -1935,7 +2062,8 @@
       "Free",
       "Pre-Primary Lavender ",
       "VI-E",
-      "VI-D"
+      "VI-D",
+      "S-5"
     ],
     [
       "VI-G",
@@ -1947,7 +2075,8 @@
       "Free",
       "VI-D",
       "VI-F",
-      "VI-E"
+      "VI-E",
+      "S-5"
     ],
     [
       "VI-G",
@@ -1959,7 +2088,8 @@
       "VI-D",
       "VI-F",
       "VI-E",
-      "VI-G"
+      "VI-G",
+      "S-5"
     ],
     "Science ",
     true
@@ -2051,7 +2181,8 @@
       "VIII-E",
       "Free",
       "VIII-F",
-      "Corridor Duty "
+      "Corridor Duty ",
+      "S-6"
     ],
     [
       "VIII-A",
@@ -2063,7 +2194,8 @@
       "VIII-C",
       "VIII-F",
       "VIII-A",
-      "Free"
+      "Free",
+      "S-6"
     ],
     [
       "VIII-A",
@@ -2075,7 +2207,8 @@
       "VIII-C",
       "VII-E",
       "Free",
-      "VIII-F"
+      "VIII-F",
+      "S-6"
     ],
     [
       "VIII-A",
@@ -2087,7 +2220,8 @@
       "Free",
       "VIII-F",
       "VII-E",
-      "VIII-C"
+      "VIII-C",
+      "S-6"
     ],
     [
       "VIII-A",
@@ -2099,7 +2233,8 @@
       "VIII-E",
       "Pre-Primary Lavender",
       "VII-E",
-      "VIII-C"
+      "VIII-C",
+      "S-6"
     ],
     [
       "VIII-A",
@@ -2111,7 +2246,8 @@
       "VIII-F",
       "VIII-E",
       "Free",
-      "Free"
+      "Free",
+      "S-6"
     ],
     "Maths",
     true
@@ -2127,7 +2263,8 @@
       "VIII-C",
       "Free",
       "VIII-A",
-      "VIII-A"
+      "VIII-A",
+      "S-5"
     ],
     [
       "VII-F",
@@ -2139,7 +2276,8 @@
       "VII-C",
       "Vll-E",
       "VII-C",
-      "VIII-A"
+      "VIII-A",
+      "S-5"
     ],
     [
       "VII-F",
@@ -2151,7 +2289,8 @@
       "VII-C",
       "VIII-C",
       "VIII-A",
-      "VII-E"
+      "VII-E",
+      "S-5"
     ],
     [
       "VII-F",
@@ -2163,7 +2302,8 @@
       "VIII-A",
       "VIII-C",
       "VII-C",
-      "VII-E"
+      "VII-E",
+      "S-5"
     ],
     [
       "VII-F",
@@ -2175,7 +2315,8 @@
       "VIII-A",
       "Free",
       "VIII-C",
-      "Free"
+      "Free",
+      "S-5"
     ],
     [
       "VII-F",
@@ -2187,7 +2328,8 @@
       "Free",
       "VIII-C",
       "VII-F",
-      "VII-C"
+      "VII-C",
+      "S-5"
     ],
     "Social Science ",
     true
@@ -2279,7 +2421,8 @@
       "Recess Duty ",
       "Free",
       "IX-B",
-      "Free"
+      "Free",
+      "S-5"
     ],
     [
       "VIII-E",
@@ -2291,7 +2434,8 @@
       "VIII-A",
       "IX-F",
       "VIII-E",
-      "VIII-B"
+      "VIII-B",
+      "S-5"
     ],
     [
       "VIII-E",
@@ -2303,7 +2447,8 @@
       "VIII-F",
       "Free",
       "VIII-E",
-      "Free"
+      "Free",
+      "S-5"
     ],
     [
       "VIII-E",
@@ -2315,7 +2460,8 @@
       "IX-F",
       "VIII-E",
       "Free",
-      "IX-B"
+      "IX-B",
+      "S-5"
     ],
     [
       "VIII-E",
@@ -2327,7 +2473,8 @@
       "VIII-C",
       "IX-F ",
       "Free",
-      "VIII-E"
+      "VIII-E",
+      "S-5"
     ],
     [
       "VIII-E",
@@ -2339,7 +2486,8 @@
       "IX-F ",
       "IX-B ",
       "VIII-E",
-      "Free"
+      "Free",
+      "S-5"
     ],
     "Environmental Education/Social Science ",
     true
@@ -2431,7 +2579,8 @@
       "Free",
       "VIII-F",
       "IX-F",
-      "VIII-C"
+      "VIII-C",
+      "Physics Lab"
     ],
     [
       "VIII-C",
@@ -2443,7 +2592,8 @@
       "VIII-F",
       "VIII-E",
       "IX-F",
-      "Free"
+      "Free",
+      "Physics Lab"
     ],
     [
       "VIII-C",
@@ -2455,7 +2605,8 @@
       "VIII-E",
       "VIII-F",
       "VIII-B",
-      "Free"
+      "Free",
+      "Physics Lab"
     ],
     [
       "VIII-C",
@@ -2467,7 +2618,8 @@
       "Free",
       "Free",
       "VIII-B",
-      "VIII-E"
+      "VIII-E",
+      "Physics Lab"
     ],
     [
       "VIII-C",
@@ -2479,7 +2631,8 @@
       "VIII-F",
       "Pre-Primary Dahlia",
       "IX-F",
-      "Free"
+      "Free",
+      "Physics Lab"
     ],
     [
       "VIII-C",
@@ -2491,7 +2644,8 @@
       "VIII-B",
       "Free",
       "IX-F",
-      "IX-F"
+      "IX-F",
+      "Physics Lab"
     ],
     "Science/Physics ",
     true
@@ -2507,7 +2661,8 @@
       "Free",
       "XI-C",
       "XI-D",
-      "C.DUTY"
+      "C.DUTY",
+      "S-3"
     ],
     [
       "XI-D",
@@ -2519,7 +2674,8 @@
       "XI-D",
       "XII-D",
       "Free",
-      "XI-D"
+      "XI-D",
+      "S-3"
     ],
     [
       "XI-D",
@@ -2531,7 +2687,8 @@
       "XII-D",
       "Free",
       "XI-C",
-      "Free"
+      "Free",
+      "S-3"
     ],
     [
       "XI-D",
@@ -2543,7 +2700,8 @@
       "XI-D",
       "XI-C",
       "XII-D",
-      "Free"
+      "Free",
+      "S-3"
     ],
     [
       "XI-D",
@@ -2555,7 +2713,8 @@
       "Free",
       "XI-D",
       "XI-C",
-      "XI-D"
+      "XI-D",
+      "S-3"
     ],
     [
       "XI-D",
@@ -2567,7 +2726,8 @@
       "XII-D",
       "Free",
       "XI-D",
-      "XII-D"
+      "XII-D",
+      "S-3"
     ],
     "Accounts&Bst"
   ],
@@ -2582,7 +2742,8 @@
       "XII-F (A/P)",
       "XII-A",
       "XII-D",
-      "XII-F"
+      "XII-F",
+      "S-3"
     ],
     [
       "XII-F",
@@ -2594,7 +2755,8 @@
       "XII-E",
       "XII-A",
       "Free",
-      "XII-E"
+      "XII-E",
+      "S-3"
     ],
     [
       "XII-F",
@@ -2606,7 +2768,8 @@
       "Free",
       "XII-E",
       "XII-D",
-      "XII-F (G.S)"
+      "XII-F (G.S)",
+      "S-3"
     ],
     [
       "XII-F",
@@ -2618,7 +2781,8 @@
       "XII-F",
       "Free",
       "XII-A",
-      "XII-D"
+      "XII-D",
+      "S-3"
     ],
     [
       "XII-F",
@@ -2630,7 +2794,8 @@
       "XII-E",
       "XII-D",
       "Free",
-      "XII-A"
+      "XII-A",
+      "S-3"
     ],
     [
       "XII-F",
@@ -2642,7 +2807,8 @@
       "Free",
       "XII-F",
       "XII-D",
-      "XII-A"
+      "XII-A",
+      "S-3"
     ],
     "A/P"
   ],
@@ -2657,7 +2823,8 @@
       "XII-F (A/P)",
       "XII-A",
       "XII-D",
-      "XII-F"
+      "XII-F",
+      "S-3"
     ],
     [
       "XII-E",
@@ -2669,7 +2836,8 @@
       "XII-E",
       "XII-A",
       "Free",
-      "XII-E"
+      "XII-E",
+      "S-3"
     ],
     [
       "XII-E",
@@ -2681,7 +2849,8 @@
       "Free",
       "XII-E",
       "XII-D",
-      "XII-F (G.S)"
+      "XII-F (G.S)",
+      "S-3"
     ],
     [
       "XII-E",
@@ -2693,7 +2862,8 @@
       "XII-F",
       "Free",
       "XII-A",
-      "XII-D"
+      "XII-D",
+      "S-3"
     ],
     [
       "XII-E",
@@ -2705,7 +2875,8 @@
       "XII-E",
       "XII-D",
       "Free",
-      "XII-A"
+      "XII-A",
+      "S-3"
     ],
     [
       "XII-E",
@@ -2717,7 +2888,8 @@
       "Free",
       "XII-F",
       "XII-D",
-      "XII-A"
+      "XII-A",
+      "S-3"
     ],
     "Eco, A/P, G.S"
   ],
@@ -2732,7 +2904,8 @@
       "XII-E",
       "XI-E",
       "Free",
-      "XII-D"
+      "XII-D",
+      "S-3"
     ],
     [
       "XII-D",
@@ -2744,7 +2917,8 @@
       "XII-D",
       "Free",
       "Free",
-      "C.DUTY"
+      "C.DUTY",
+      "S-3"
     ],
     [
       "XII-D",
@@ -2756,7 +2930,8 @@
       "XII-C",
       "Free",
       "XI-E",
-      "XII-C"
+      "XII-C",
+      "S-3"
     ],
     [
       "XII-D",
@@ -2768,7 +2943,8 @@
       "XII-D (G.S)",
       "Free",
       "XII-E",
-      "XII-C"
+      "XII-C",
+      "S-3"
     ],
     [
       "XII-D",
@@ -2780,7 +2956,8 @@
       "XII-C",
       "Free",
       "XII-D (G.S)",
-      "XII-E"
+      "XII-E",
+      "S-3"
     ],
     [
       "XII-D",
@@ -2792,7 +2969,8 @@
       "Free",
       "XII-D (A./P)",
       "XII-E",
-      "XII-C"
+      "XII-C",
+      "S-3"
     ],
     "A/C, A/P, ECO, G.S",
     true
@@ -2883,7 +3061,8 @@
       "XI-D",
       "XI-F (G.S)",
       "Free",
-      "XI-C"
+      "XI-C",
+      "S-4"
     ],
     [
       "XI-F",
@@ -2895,7 +3074,8 @@
       "Free",
       "XI-D",
       "XI-B",
-      "XI-C"
+      "XI-C",
+      "S-4"
     ],
     [
       "XI-F",
@@ -2907,7 +3087,8 @@
       "XI-D",
       "XI-C",
       "XI-B",
-      "XI-F"
+      "XI-F",
+      "S-4"
     ],
     [
       "XI-F",
@@ -2919,7 +3100,8 @@
       "XI-C",
       "XI-F",
       "Free",
-      "XI-B"
+      "XI-B",
+      "S-4"
     ],
     [
       "XI-F",
@@ -2931,7 +3113,8 @@
       "Free",
       "XI-C",
       "Free",
-      "XI-F"
+      "XI-F",
+      "S-4"
     ],
     [
       "XI-F",
@@ -2943,7 +3126,8 @@
       "XI-F",
       "Free",
       "XI-B",
-      "Free"
+      "Free",
+      "S-4"
     ],
     "ENGLISH"
   ],
@@ -2958,7 +3142,8 @@
       "XII-C (G.S)",
       "XI-D",
       "Free",
-      "XII-C"
+      "XII-C",
+      "S-4"
     ],
     [
       "XII-C",
@@ -3033,7 +3218,8 @@
       "VII-A",
       "VII-B",
       "Free",
-      "VII-A"
+      "VII-A",
+      "S-6"
     ],
     [
       "VIII-F",
@@ -3045,7 +3231,8 @@
       "VIII-B",
       "C.DUTY",
       "Free",
-      "VIII-F"
+      "VIII-F",
+      "S-6"
     ],
     [
       "VIII-F",
@@ -3057,7 +3244,8 @@
       "VIII-D",
       "VII-B",
       "VII-A",
-      "VII-B"
+      "VII-B",
+      "S-6"
     ],
     [
       "VIII-F",
@@ -3069,7 +3257,8 @@
       "VII-A",
       "VIII-D",
       "VII-B",
-      "VIII-B"
+      "VIII-B",
+      "S-6"
     ],
     [
       "VIII-F",
@@ -3081,7 +3270,8 @@
       "VIII-D",
       "VII-A",
       "Free",
-      "VIII-B"
+      "VIII-B",
+      "S-6"
     ],
     [
       "VIII-F",
@@ -3093,7 +3283,8 @@
       "Free",
       "Free",
       "VII-B",
-      "VIII-D"
+      "VIII-D",
+      "S-6"
     ],
     "S.S",
     true
@@ -3109,7 +3300,8 @@
       "VE",
       "HM",
       "HM",
-      "Free"
+      "Free",
+      "S-1"
     ],
     [
       "IVE",
@@ -3121,7 +3313,8 @@
       "VE",
       "IVD",
       "Free",
-      "IVE"
+      "IVE",
+      "S-1"
     ],
     [
       "IVE",
@@ -3133,7 +3326,8 @@
       "Free",
       "VE",
       "C-DUTY",
-      "Free"
+      "Free",
+      "S-1"
     ],
     [
       "IVE",
@@ -3145,7 +3339,8 @@
       "IVB",
       "PRE SC Lily",
       "VE",
-      "Free"
+      "Free",
+      "S-1"
     ],
     [
       "IVE",
@@ -3157,7 +3352,8 @@
       "Free",
       "IVB",
       "VE",
-      "IVD"
+      "IVD",
+      "S-1"
     ],
     [
       "IVE",
@@ -3169,7 +3365,8 @@
       "Free",
       "Free",
       "VE",
-      "IVB"
+      "IVB",
+      "S-1"
     ],
     "Social Science ",
     true
@@ -3261,7 +3458,8 @@
       "CDUTY",
       "Free",
       "VIIB",
-      "IVC"
+      "IVC",
+      "Library"
     ],
     [
       "Library",
@@ -3273,7 +3471,8 @@
       "Free",
       "PRE SC Rose",
       "IIID",
-      "Free"
+      "Free",
+      "Library"
     ],
     [
       "Library",
@@ -3285,7 +3484,8 @@
       "Free",
       "IIIE",
       "VIF",
-      "VD"
+      "VD",
+      "Library"
     ],
     [
       "Library",
@@ -3297,7 +3497,8 @@
       "VIC",
       "VIIE",
       "Free",
-      "IVB"
+      "IVB",
+      "Library"
     ],
     [
       "Library",
@@ -3309,7 +3510,8 @@
       "IIIC",
       "Free",
       "VIIA",
-      "VIID"
+      "VIID",
+      "Library"
     ],
     [
       "Library",
@@ -3321,7 +3523,8 @@
       "Free",
       "IIIA",
       "Free",
-      "IVD"
+      "IVD",
+      "Library"
     ],
     "Library",
     true
@@ -3337,7 +3540,8 @@
       "VF",
       "PRE SC Lily",
       "VF",
-      "IVB"
+      "IVB",
+      "S-2"
     ],
     [
       "VB",
@@ -3349,7 +3553,8 @@
       "IVE",
       "Free",
       "VF",
-      "VD"
+      "VD",
+      "S-2"
     ],
     [
       "VB",
@@ -3361,7 +3566,8 @@
       "IVE",
       "IVB",
       "Free",
-      "IVE"
+      "IVE",
+      "S-2"
     ],
     [
       "VB",
@@ -3373,7 +3579,8 @@
       "VF",
       "IVB",
       "VD",
-      "Free"
+      "Free",
+      "S-2"
     ],
     [
       "VB",
@@ -3385,7 +3592,8 @@
       "IVB",
       "IVE",
       "IVB",
-      "C. DUTY"
+      "C. DUTY",
+      "S-2"
     ],
     [
       "VB",
@@ -3397,7 +3605,8 @@
       "IVB",
       "Free",
       "VB",
-      "IVE"
+      "IVE",
+      "S-2"
     ],
     "Maths",
     true
@@ -3413,7 +3622,8 @@
       "IVE",
       "PRE SC Rose",
       "VD",
-      "IVA"
+      "IVA",
+      "S-2"
     ],
     [
       "VA",
@@ -3425,7 +3635,8 @@
       "VD",
       "IVC",
       "IVE",
-      "IVA"
+      "IVA",
+      "S-2"
     ],
     [
       "VA",
@@ -3437,7 +3648,8 @@
       "IVA",
       "Free",
       "IVE",
-      "VA"
+      "VA",
+      "S-2"
     ],
     [
       "VA",
@@ -3449,7 +3661,8 @@
       "IVE",
       "IVC",
       "IVA",
-      "C-DUTY"
+      "C-DUTY",
+      "S-2"
     ],
     [
       "VA",
@@ -3461,7 +3674,8 @@
       "IVA",
       "IVC",
       "IVE",
-      "Free"
+      "Free",
+      "S-2"
     ],
     [
       "VA",
@@ -3473,7 +3687,8 @@
       "Free",
       "IVC",
       "IVE",
-      "IVC"
+      "IVC",
+      "S-2"
     ],
     "Social Science ",
     true
@@ -3489,7 +3704,8 @@
       "VD",
       "HM",
       "HM",
-      "IVE"
+      "IVE",
+      "S-1"
     ],
     [
       "IVF",
@@ -3501,7 +3717,8 @@
       "Free",
       "IVE",
       "IVB",
-      "VB"
+      "VB",
+      "S-1"
     ],
     [
       "IVF",
@@ -3513,7 +3730,8 @@
       "IVB",
       "VB",
       "Free",
-      "IVF"
+      "IVF",
+      "S-1"
     ],
     [
       "IVF",
@@ -3525,7 +3743,8 @@
       "VB",
       "PRE-PRIMARY Dahlia",
       "IVE",
-      "VD"
+      "VD",
+      "S-1"
     ],
     [
       "IVF",
@@ -3537,7 +3756,8 @@
       "IVE",
       "Free",
       "VD",
-      "IVB"
+      "IVB",
+      "S-1"
     ],
     [
       "IVF",
@@ -3549,7 +3769,8 @@
       "VB",
       "IVE",
       "Free",
-      "C. DUTY"
+      "C. DUTY",
+      "S-1"
     ],
     "English ",
     true
@@ -3641,7 +3862,8 @@
       "IXD",
       "XD",
       "XIA(PRACTICAL)",
-      "XIA(PRACTICAL)"
+      "XIA(PRACTICAL)",
+      "Chemistry Lab"
     ],
     [
       "IXB",
@@ -3653,7 +3875,8 @@
       "Free",
       "IXE",
       "IXB",
-      "XA"
+      "XA",
+      "Chemistry Lab"
     ],
     [
       "IXB",
@@ -3665,7 +3888,8 @@
       "RECESS DUTY",
       "XD",
       "Free",
-      "XA"
+      "XA",
+      "Chemistry Lab"
     ],
     [
       "IXB",
@@ -3677,7 +3901,8 @@
       "XIA(PRACTICAL)",
       "XIA(PRACTICAL)",
       "Free",
-      "XD"
+      "XD",
+      "Chemistry Lab"
     ],
     [
       "IXB",
@@ -3689,7 +3914,8 @@
       "IXB",
       "IXD",
       "XIA(PRACTICAL)",
-      "XIA(PRACTICAL)"
+      "XIA(PRACTICAL)",
+      "Chemistry Lab"
     ],
     [
       "IXB",
@@ -3701,7 +3927,8 @@
       "XD(PRACTICAL)",
       "XD(PRACTICAL)",
       "IXE",
-      "Free"
+      "Free",
+      "Chemistry Lab"
     ],
     "Chemistry ",
     false
@@ -3717,7 +3944,8 @@
       "Free",
       "PRE PRIMARY Marigold",
       "Free",
-      "Free"
+      "Free",
+      "Resource Room"
     ],
     [
       "Library",
@@ -3792,7 +4020,8 @@
       "VIIIA",
       "XF",
       "XD",
-      "XF"
+      "XF",
+      "S-3"
     ],
     [
       "XB",
@@ -3804,7 +4033,8 @@
       "Free",
       "VIIIA",
       "Free",
-      "XB"
+      "XB",
+      "S-3"
     ],
     [
       "XB",
@@ -3816,7 +4046,8 @@
       "XD",
       "XF",
       "Free",
-      "VIIIA"
+      "VIIIA",
+      "S-3"
     ],
     [
       "XB",
@@ -3828,7 +4059,8 @@
       "XD",
       "C. DUTY",
       "Free",
-      "VIIIA"
+      "VIIIA",
+      "S-3"
     ],
     [
       "XB",
@@ -3840,7 +4072,8 @@
       "Free",
       "VIIIC",
       "VIIIA",
-      "XD"
+      "XD",
+      "S-3"
     ],
     [
       "XB",
@@ -3852,7 +4085,8 @@
       "VIIIC",
       "XF",
       "VIIIC",
-      "Free"
+      "Free",
+      "S-3"
     ],
     "English",
     true
@@ -3868,7 +4102,8 @@
       "IXC",
       "IXE",
       "IXC",
-      "IXE"
+      "IXE",
+      "S-4"
     ],
     [
       "IXE",
@@ -3880,7 +4115,8 @@
       "IXD",
       "XE",
       "Free",
-      "XE"
+      "XE",
+      "S-4"
     ],
     [
       "IXE",
@@ -3892,7 +4128,8 @@
       "IXC",
       "Free",
       "XE",
-      "IXD"
+      "IXD",
+      "S-4"
     ],
     [
       "IXE",
@@ -3904,7 +4141,8 @@
       "IXD",
       "IXD",
       "IXE",
-      "XE"
+      "XE",
+      "S-4"
     ],
     [
       "IXE",
@@ -3916,7 +4154,8 @@
       "IXC",
       "XE",
       "IXE",
-      "XE"
+      "XE",
+      "S-4"
     ],
     [
       "IXE",
@@ -3928,7 +4167,8 @@
       "RECESS DUTY",
       "XE",
       "IXC",
-      "IXE"
+      "IXE",
+      "S-4"
     ],
     "Social Science ",
     true
@@ -3944,7 +4184,8 @@
       "XC",
       "XC",
       "IXE",
-      "Free"
+      "Free",
+      "S-6"
     ],
     [
       "None",
@@ -3956,7 +4197,8 @@
       "IXA",
       "IXA",
       "IXD",
-      "IXC"
+      "IXC",
+      "S-6"
     ],
     [
       "None",
@@ -3968,7 +4210,8 @@
       "XE",
       "XE",
       "Free",
-      "IXA"
+      "IXA",
+      "S-6"
     ],
     [
       "None",
@@ -3980,7 +4223,8 @@
       "VIIID",
       "XA(H.M)",
       "IXD",
-      "IXE"
+      "IXE",
+      "S-6"
     ],
     [
       "None",
@@ -3992,7 +4236,8 @@
       "IXD",
       "IXA",
       "XC",
-      "Free"
+      "Free",
+      "S-6"
     ],
     [
       "None",
@@ -4004,7 +4249,8 @@
       "VIIID",
       "XC",
       "Free",
-      "IXA"
+      "IXA",
+      "S-6"
     ],
     "Science ",
     true
@@ -4020,7 +4266,8 @@
       "XIID",
       "Free",
       "XIIF",
-      "XID"
+      "XID",
+      "S-4"
     ],
     [
       "None",
@@ -4032,7 +4279,8 @@
       "XIF",
       "XIIF",
       "XIID",
-      "XIF"
+      "XIF",
+      "S-4"
     ],
     [
       "None",
@@ -4044,7 +4292,8 @@
       "XIF",
       "XID",
       "XIIF",
-      "XID"
+      "XID",
+      "S-4"
     ],
     [
       "None",
@@ -4055,7 +4304,8 @@
       "XIF",
       "Free",
       "XID",
-      "XIF"
+      "XIF",
+      "S-4"
     ],
     [
       "None",
@@ -4067,7 +4317,8 @@
       "XIF",
       "Free",
       "XIIF",
-      "XIID"
+      "XIID",
+      "S-4"
     ],
     [
       "None",
@@ -4080,7 +4331,8 @@
       "XIIF",
       "Free",
       "XIIF",
-      "Free"
+      "Free",
+      "S-4"
     ],
     "Pol Science ",
     true
@@ -4096,7 +4348,8 @@
       "XIIB",
       "XIB",
       "Free",
-      "XIE"
+      "XIE",
+      "Bio Lab"
     ],
     [
       "Bio Lab",
@@ -4108,7 +4361,8 @@
       "XE",
       "XIIB",
       "Free",
-      "XIB"
+      "XIB",
+      "Bio Lab"
     ],
     [
       "Bio Lab",
@@ -4120,7 +4374,8 @@
       "XE(PRACTICAL)",
       "XE(PRACTICAL)",
       "Free",
-      "XIB"
+      "XIB",
+      "Bio Lab"
     ],
     [
       "Bio Lab",
@@ -4132,7 +4387,8 @@
       "XE",
       "XE",
       "Free",
-      "XIIB"
+      "XIIB",
+      "Bio Lab"
     ],
     [
       "Bio Lab",
@@ -4144,7 +4400,8 @@
       "XE",
       "XD",
       "XIB",
-      "Free"
+      "Free",
+      "Bio Lab"
     ],
     [
       "Bio Lab",
@@ -4156,7 +4413,8 @@
       "XD",
       "XD",
       "XIIB",
-      "IXD"
+      "IXD",
+      "Bio Lab"
     ],
     "Biology ",
     false
@@ -4248,7 +4506,8 @@
       "VIIE",
       "Free",
       "VIIIC",
-      "UNKNOWN QUANTITY"
+      "UNKNOWN QUANTITY",
+      "Art & Craft Room"
     ],
     [
       "None",
@@ -4260,7 +4519,8 @@
       "Free",
       "VIIIC",
       "XIF",
-      "Free"
+      "Free",
+      "Art & Craft Room"
     ],
     [
       "None",
@@ -4272,7 +4532,8 @@
       "Free",
       "XIF",
       "VIC",
-      "C-DUTY"
+      "C-DUTY",
+      "Art & Craft Room"
     ],
     [
       "None",
@@ -4284,7 +4545,8 @@
       "Free",
       "VIIA",
       "VIIF",
-      "Free"
+      "Free",
+      "Art & Craft Room"
     ],
     [
       "None",
@@ -4296,7 +4558,8 @@
       "IXA",
       "VIIIA",
       "C-DUTY",
-      "Free"
+      "Free",
+      "Art & Craft Room"
     ],
     [
       "None",
@@ -4308,7 +4571,8 @@
       "Free",
       "VIA",
       "VIF",
-      "Free"
+      "Free",
+      "Art & Craft Room"
     ],
     "Some Subject ",
     true
@@ -4553,7 +4817,8 @@
       "IXA",
       "VIIIE",
       "VIIIC",
-      "Free"
+      "Free",
+      "S-6"
     ],
     [
       "VIIIA",
@@ -4565,7 +4830,8 @@
       "VIIIE",
       "Free",
       "IXA",
-      "Free"
+      "Free",
+      "S-6"
     ],
     [
       "VIIIA",
@@ -4577,7 +4843,8 @@
       "VIII A",
       "C-DUTY",
       "VIIIC",
-      "VIII E"
+      "VIII E",
+      "S-6"
     ],
     [
       "VIIIA",
@@ -4589,7 +4856,8 @@
       "VIIIE",
       "Free",
       "VIIIC",
-      "IXA"
+      "IXA",
+      "S-6"
     ],
     [
       "VIIIA",
@@ -4601,7 +4869,8 @@
       "Free",
       "VIII E",
       "IXA",
-      "VIIIA"
+      "VIIIA",
+      "S-6"
     ],
     [
       "VIIIA",
@@ -4613,12 +4882,13 @@
       "VIIIE",
       "IXA",
       "Free",
-      "VIIC"
+      "VIIC",
+      "S-6"
     ],
     "Hindi ",
     true
   ],
-  "Anandita": [
+  "Anindita": [
     [
       "None",
       "Free",
@@ -4629,7 +4899,8 @@
       "Free",
       "VIIA",
       "VIB",
-      "VIID"
+      "VIID",
+      "S-6"
     ],
     [
       "None",
@@ -4641,7 +4912,8 @@
       "Free",
       "VII C",
       "VIIA",
-      "VIC"
+      "VIC",
+      "S-6"
     ],
     [
       "None",
@@ -4653,7 +4925,8 @@
       "Free",
       "VIIA",
       "VID",
-      "VIC"
+      "VIC",
+      "S-6"
     ],
     [
       "None",
@@ -4665,7 +4938,8 @@
       "VIA",
       "VIF",
       "Free",
-      "VIIB"
+      "VIIB",
+      "S-6"
     ],
     [
       "None",
@@ -4677,7 +4951,8 @@
       "Free",
       "VIA",
       "VII C",
-      "VIIE"
+      "VIIE",
+      "S-6"
     ],
     [
       "None",
@@ -4689,7 +4964,8 @@
       "VIIB",
       "VIIE",
       "VIB",
-      "VIF"
+      "VIF",
+      "S-6"
     ],
     "Sanskrit",
     true
@@ -4705,7 +4981,8 @@
       "VIIIF",
       "IXB",
       "IXD",
-      "Free"
+      "Free",
+      "Art & Craft Room"
     ],
     [
       "None",
@@ -4717,7 +4994,8 @@
       "XC",
       "XIE",
       "VIIIB",
-      "VIIB"
+      "VIIB",
+      "Art & Craft Room"
     ],
     [
       "None",
@@ -4729,7 +5007,8 @@
       "XIIB",
       "Free",
       "CDUTY",
-      "VIE"
+      "VIE",
+      "Art & Craft Room"
     ],
     [
       "None",
@@ -4741,7 +5020,8 @@
       "VIID",
       "Free",
       "IXF",
-      "XIE"
+      "XIE",
+      "Art & Craft Room"
     ],
     [
       "None",
@@ -4753,7 +5033,8 @@
       "VIB",
       "XIB",
       "CDUTY",
-      "Free"
+      "Free",
+      "Art & Craft Room"
     ],
     [
       "None",
@@ -4765,7 +5046,8 @@
       "XB",
       "XID",
       "XF",
-      "VIIE"
+      "VIIE",
+      "Art & Craft Room"
     ],
     "Some Subject",
     false
@@ -4781,7 +5063,8 @@
       "IIIB",
       "VC",
       "VA",
-      "Free"
+      "Free",
+      "Art & Craft Room"
     ],
     [
       "yes",
@@ -4793,7 +5076,8 @@
       "IV-C",
       "III-C",
       "IV-D",
-      "CDUTY"
+      "CDUTY",
+      "Art & Craft Room"
     ],
     [
       "yes",
@@ -4805,7 +5089,8 @@
       "V-D",
       "V-A",
       "V-C",
-      "Free"
+      "Free",
+      "Art & Craft Room"
     ],
     [
       "yes",
@@ -4817,7 +5102,8 @@
       "Free",
       "III-A",
       "IV-F",
-      "Free"
+      "Free",
+      "Art & Craft Room"
     ],
     [
       "yes",
@@ -4829,7 +5115,8 @@
       "IV-C",
       "Free",
       "IV-D",
-      "IV-E"
+      "IV-E",
+      "Art & Craft Room"
     ],
     [
       "yes",
@@ -4841,86 +5128,10 @@
       "IV-A",
       "V-D",
       "IVB",
-      "Free"
+      "Free",
+      "Art & Craft Room"
     ],
     "Drawing ",
-    false
-  ],
-  "Rajeev": [
-    [
-      "Sports Room",
-      "XIIF/XIIB",
-      "XIF",
-      "XIIB(GAMES)",
-      "XIIC(GAMES)",
-      "Recess",
-      "FREE",
-      "XIIF/XIIB",
-      "XIF",
-      "FREE"
-    ],
-    [
-      "Sports Room",
-      "XB",
-      "XIIB(GAMES)",
-      "XIIF/XIIB",
-      "FREE",
-      "Recess",
-      "FREE",
-      "XIF",
-      "XIIB",
-      "XIIF",
-      "FREE"
-    ],
-    [
-      "Sports Room",
-      "XIA",
-      "XIIF/XIIB",
-      "XIF",
-      "Free",
-      "Recess",
-      "Free",
-      "XIIF(GAMES)XB",
-      "FREE"
-    ],
-    [
-      "Sports Room",
-      "XIF(GAMES)",
-      "XIF",
-      "XIIA(GAMES)",
-      "XIIC(GAMES)",
-      "Recess",
-      "FREE",
-      "XIIF/XIIB",
-      "XIIF",
-      "FREE"
-    ],
-    [
-      "Sports Room",
-      "XIA",
-      "XIF",
-      "FREE",
-      "XA",
-      "Recess",
-      "FREE",
-      "XIIF",
-      "XIIB",
-      "XIF",
-      "FREE"
-    ],
-    [
-      "Sports Room",
-      "XIIA",
-      "XIIB",
-      "XIF",
-      "FREE",
-      "Recess",
-      "FREE",
-      "XIA(GAMES)",
-      "XA",
-      "FREE"
-    ],
-    "PET",
     false
   ],
   "Tamsi": [
@@ -4934,7 +5145,8 @@
       "FREE",
       "VIIID",
       "FREE",
-      "FREE"
+      "FREE",
+      "Nehru Hall"
     ],
     [
       "Music Room",
@@ -4946,7 +5158,8 @@
       "FREE",
       "IVB",
       "IIIA",
-      "FREE"
+      "FREE",
+      "Nehru Hall"
     ],
     [
       "Music Room",
@@ -4958,7 +5171,8 @@
       "FREE",
       "IIID",
       "VD",
-      "FREE"
+      "FREE",
+      "Nehru Hall"
     ],
     [
       "Music Room",
@@ -4970,7 +5184,8 @@
       "RECESS DUTY",
       "IVE",
       "IIIF",
-      "FREE"
+      "FREE",
+      "Nehru Hall"
     ],
     [
       "Music Room",
@@ -4982,7 +5197,8 @@
       "C. DUTY",
       "IIIF",
       "VIID",
-      "FREE"
+      "FREE",
+      "Nehru Hall"
     ],
     [
       "Music Room",
@@ -4993,12 +5209,13 @@
       "FREE",
       "VC",
       "IVF",
-      "FREE"
+      "FREE",
+      "Nehru Hall"
     ],
     "Music",
     true
   ],
-  "Ranjana": [
+  "Ranjana Devi": [
     [
       "Nehru Hall",
       "FREE",
@@ -5009,7 +5226,8 @@
       "FREE",
       "VIIC",
       "FREE",
-      "VIG"
+      "VIG",
+      "Nehru Hall"
     ],
     [
       "Nehru Hall",
@@ -5021,7 +5239,8 @@
       "FREE",
       "IVA",
       "IIIA",
-      "FREE"
+      "FREE",
+      "Nehru Hall"
     ],
     [
       "Nehru Hall",
@@ -5033,7 +5252,8 @@
       "FREE",
       "IIIC",
       "IIIA",
-      "FREE"
+      "FREE",
+      "Nehru Hall"
     ],
     [
       "Nehru Hall",
@@ -5045,7 +5265,8 @@
       "FREE",
       "IVD",
       "IIIE",
-      "FREE"
+      "FREE",
+      "Nehru Hall"
     ],
     [
       "Nehru Hall",
@@ -5057,7 +5278,8 @@
       "FREE",
       "IIIE",
       "VIIC",
-      "FREE"
+      "FREE",
+      "Nehru Hall"
     ],
     [
       "Nehru Hall",
@@ -5069,9 +5291,2208 @@
       "FREE",
       "VA",
       "IVC",
-      "FREE"
+      "FREE",
+      "Nehru Hall"
     ],
     "Dance",
+    true
+  ],
+  "Rajeev Verma": [
+    [
+      "Sports Room",
+      "XIIF/XIIB",
+      "XIF",
+      "XIIB(GAMES)",
+      "XIIC(GAMES)",
+      "Recess",
+      "FREE",
+      "XIIF/XIIB",
+      "XIF",
+      "FREE",
+      "Sports Room"
+    ],
+    [
+      "Sports Room",
+      "XB",
+      "XIIB(GAMES)",
+      "XIIF/XIIB",
+      "FREE",
+      "Recess",
+      "FREE",
+      "XIF",
+      "XIIB/XIIF",
+      "FREE",
+      "Sports Room"
+    ],
+    [
+      "Sports Room",
+      "XIA",
+      "XIIF/XIIB",
+      "XIF",
+      "Free",
+      "Recess",
+      "Free",
+      "XIIF(GAMES)",
+      "XB",
+      "FREE",
+      "Sports Room"
+    ],
+    [
+      "Sports Room",
+      "XIF(GAMES)",
+      "XIF",
+      "XIIA(GAMES)",
+      "XIIC(GAMES)",
+      "Recess",
+      "FREE",
+      "XIIF/XIIB",
+      "XIIF",
+      "FREE",
+      "Sports Room"
+    ],
+    [
+      "Sports Room",
+      "XIA",
+      "XIF",
+      "FREE",
+      "XA",
+      "Recess",
+      "FREE",
+      "XIIF/XIIB",
+      "XIF",
+      "FREE",
+      "Sports Room"
+    ],
+    [
+      "Sports Room",
+      "XIIA",
+      "XIIB",
+      "XIF",
+      "FREE",
+      "Recess",
+      "FREE",
+      "XIA(GAMES)",
+      "XA",
+      "FREE",
+      "Sports Room"
+    ],
+    "PET",
+    false
+  ],
+  "Garima Khanijov": [
+    [
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose"
+    ],
+    [
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose"
+    ],
+    [
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose"
+    ],
+    [
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose"
+    ],
+    [
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose"
+    ],
+    [
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose",
+      "Pre School Rose"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Mamta Behl": [
+    [
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia"
+    ],
+    [
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia"
+    ],
+    [
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia"
+    ],
+    [
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia"
+    ],
+    [
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia"
+    ],
+    [
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia",
+      "Pre School Petunia"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Pooja Pathak": [
+    [
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily"
+    ],
+    [
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily"
+    ],
+    [
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily"
+    ],
+    [
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily"
+    ],
+    [
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily"
+    ],
+    [
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily",
+      "Pre School Lily"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Pulkit Rajput": [
+    [
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy"
+    ],
+    [
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy"
+    ],
+    [
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy"
+    ],
+    [
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy"
+    ],
+    [
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy"
+    ],
+    [
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy",
+      "Pre Primary Daisy"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Amrita Mehta": [
+    [
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia"
+    ],
+    [
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia"
+    ],
+    [
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia"
+    ],
+    [
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia"
+    ],
+    [
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia"
+    ],
+    [
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia",
+      "Pre Primary Dahlia"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Niharika Dhall": [
+    [
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip"
+    ],
+    [
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip"
+    ],
+    [
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip"
+    ],
+    [
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip"
+    ],
+    [
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip"
+    ],
+    [
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip",
+      "Pre Primary Tulip"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Harshit Mehta": [
+    [
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil"
+    ],
+    [
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil"
+    ],
+    [
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil"
+    ],
+    [
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil"
+    ],
+    [
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil"
+    ],
+    [
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil",
+      "Pre Primary  Daffodil"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Saloni Malhotra": [
+    [
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer"
+    ],
+    [
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer"
+    ],
+    [
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer"
+    ],
+    [
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer"
+    ],
+    [
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer"
+    ],
+    [
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer",
+      "Pre Primary Lavendaer"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Geeta Oberoy": [
+    [
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold"
+    ],
+    [
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold"
+    ],
+    [
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold"
+    ],
+    [
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold"
+    ],
+    [
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold"
+    ],
+    [
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold",
+      "Pre Primary Marigold"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Kanika Thukral": [
+    [
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine"
+    ],
+    [
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine"
+    ],
+    [
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine"
+    ],
+    [
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine"
+    ],
+    [
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine"
+    ],
+    [
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine",
+      "Pre Primary Jasmine"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Gargee Grover": [
+    [
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A"
+    ],
+    [
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A"
+    ],
+    [
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A"
+    ],
+    [
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A"
+    ],
+    [
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A"
+    ],
+    [
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A",
+      "I A"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Rakhee Puri": [
+    [
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B"
+    ],
+    [
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B"
+    ],
+    [
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B"
+    ],
+    [
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B"
+    ],
+    [
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B"
+    ],
+    [
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B",
+      "I B"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Mansi": [
+    [
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C"
+    ],
+    [
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C"
+    ],
+    [
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C"
+    ],
+    [
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C"
+    ],
+    [
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C"
+    ],
+    [
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C",
+      "I C"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Jyotsna Chaudhary": [
+    [
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D"
+    ],
+    [
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D"
+    ],
+    [
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D"
+    ],
+    [
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D"
+    ],
+    [
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D"
+    ],
+    [
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D",
+      "I D"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Vineeta": [
+    [
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E"
+    ],
+    [
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E"
+    ],
+    [
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E"
+    ],
+    [
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E"
+    ],
+    [
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E"
+    ],
+    [
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E",
+      "I E"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Meena Saigal": [
+    [
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F"
+    ],
+    [
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F"
+    ],
+    [
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F"
+    ],
+    [
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F"
+    ],
+    [
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F"
+    ],
+    [
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F",
+      "I F"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Pallavi Dhawan": [
+    [
+      "III-A",
+      "III-A",
+      "III-A",
+      "III-A",
+      "Recess",
+      "III-A",
+      "III-A",
+      "III-A",
+      "III-A"
+    ],
+    [
+      "III-A",
+      "III-A",
+      "III-A",
+      "III-A",
+      "Recess",
+      "III-A",
+      "III-A",
+      "III-A",
+      "III-A"
+    ],
+    [
+      "III-A",
+      "III-A",
+      "III-A",
+      "III-A",
+      "Recess",
+      "III-A",
+      "III-A",
+      "III-A",
+      "III-A"
+    ],
+    [
+      "III-A",
+      "III-A",
+      "III-A",
+      "III-A",
+      "Recess",
+      "III-A",
+      "III-A",
+      "III-A",
+      "III-A"
+    ],
+    [
+      "III-A",
+      "III-A",
+      "III-A",
+      "III-A",
+      "Recess",
+      "III-A",
+      "III-A",
+      "III-A",
+      "III-A"
+    ],
+    [
+      "III-A",
+      "III-A",
+      "III-A",
+      "III-A",
+      "Recess",
+      "III-A",
+      "III-A",
+      "III-A",
+      "III-A"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Saloni": [
+    [
+      "III-B",
+      "III-B",
+      "III-B",
+      "III-B",
+      "RECESS",
+      "III-B",
+      "III-B",
+      "III-B",
+      "III-B"
+    ],
+    [
+      "III-B",
+      "III-B",
+      "III-B",
+      "III-B",
+      "RECESS",
+      "III-B",
+      "III-B",
+      "III-B",
+      "III-B"
+    ],
+    [
+      "III-B",
+      "III-B",
+      "III-B",
+      "III-B",
+      "RECESS",
+      "III-B",
+      "III-B",
+      "III-B",
+      "III-B"
+    ],
+    [
+      "III-B",
+      "III-B",
+      "III-B",
+      "III-B",
+      "RECESS",
+      "III-B",
+      "III-B",
+      "III-B",
+      "III-B"
+    ],
+    [
+      "III-B",
+      "III-B",
+      "III-B",
+      "III-B",
+      "RECESS",
+      "III-B",
+      "III-B",
+      "III-B",
+      "III-B"
+    ],
+    [
+      "III-B",
+      "III-B",
+      "III-B",
+      "III-B",
+      "RECESS",
+      "III-B",
+      "III-B",
+      "III-B",
+      "III-B"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Aditi Arey": [
+    [
+      "III-C",
+      "III-C",
+      "III-C",
+      "III-C",
+      "RECESS",
+      "III-C",
+      "III-C",
+      "III-C",
+      "III-C"
+    ],
+    [
+      "III-C",
+      "III-C",
+      "III-C",
+      "III-C",
+      "RECESS",
+      "III-C",
+      "III-C",
+      "III-C",
+      "III-C"
+    ],
+    [
+      "III-C",
+      "III-C",
+      "III-C",
+      "III-C",
+      "RECESS",
+      "III-C",
+      "III-C",
+      "III-C",
+      "III-C"
+    ],
+    [
+      "III-C",
+      "III-C",
+      "III-C",
+      "III-C",
+      "RECESS",
+      "III-C",
+      "III-C",
+      "III-C",
+      "III-C"
+    ],
+    [
+      "III-C",
+      "III-C",
+      "III-C",
+      "III-C",
+      "RECESS",
+      "III-C",
+      "III-C",
+      "III-C",
+      "III-C"
+    ],
+    [
+      "III-C",
+      "III-C",
+      "III-C",
+      "III-C",
+      "RECESS",
+      "III-C",
+      "III-C",
+      "III-C",
+      "III-C"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Shweta Kapoor": [
+    [
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D",
+      "RECESS",
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D"
+    ],
+    [
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D",
+      "RECESS",
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D"
+    ],
+    [
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D",
+      "RECESS",
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D"
+    ],
+    [
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D",
+      "RECESS",
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D"
+    ],
+    [
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D",
+      "RECESS",
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D"
+    ],
+    [
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D",
+      "RECESS",
+      "III-D",
+      "III-D",
+      "III-D",
+      "III-D"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Bhawna Gulati": [
+    [
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E",
+      "RECESS",
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E"
+    ],
+    [
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E",
+      "RECESS",
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E"
+    ],
+    [
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E",
+      "RECESS",
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E"
+    ],
+    [
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E",
+      "RECESS",
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E"
+    ],
+    [
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E",
+      "RECESS",
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E"
+    ],
+    [
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E",
+      "RECESS",
+      "III-E",
+      "III-E",
+      "III-E",
+      "III-E"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Sonia Manchanda": [
+    [
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F",
+      "RECESS",
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F"
+    ],
+    [
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F",
+      "RECESS",
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F"
+    ],
+    [
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F",
+      "RECESS",
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F"
+    ],
+    [
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F",
+      "RECESS",
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F"
+    ],
+    [
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F",
+      "RECESS",
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F"
+    ],
+    [
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F",
+      "RECESS",
+      "III-F",
+      "III-F",
+      "III-F",
+      "III-F"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Abha Mishra": [
+    [
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F",
+      "RECESS",
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F"
+    ],
+    [
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F",
+      "RECESS",
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F"
+    ],
+    [
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F",
+      "RECESS",
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F"
+    ],
+    [
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F",
+      "RECESS",
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F"
+    ],
+    [
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F",
+      "RECESS",
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F"
+    ],
+    [
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F",
+      "RECESS",
+      "II-F",
+      "II-F",
+      "II-F",
+      "II-F"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Prerna Panwar": [
+    [
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E",
+      "RECESS",
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E"
+    ],
+    [
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E",
+      "RECESS",
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E"
+    ],
+    [
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E",
+      "RECESS",
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E"
+    ],
+    [
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E",
+      "RECESS",
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E"
+    ],
+    [
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E",
+      "RECESS",
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E"
+    ],
+    [
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E",
+      "RECESS",
+      "II-E",
+      "II-E",
+      "II-E",
+      "II-E"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Shipra Verma": [
+    [
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C"
+    ],
+    [
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C"
+    ],
+    [
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C"
+    ],
+    [
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C"
+    ],
+    [
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C"
+    ],
+    [
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C",
+      "II-C"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Sukhvinder Kaur": [
+    [
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D",
+      "RECESS",
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D"
+    ],
+    [
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D",
+      "RECESS",
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D"
+    ],
+    [
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D",
+      "RECESS",
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D"
+    ],
+    [
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D",
+      "RECESS",
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D"
+    ],
+    [
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D",
+      "RECESS",
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D"
+    ],
+    [
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D",
+      "RECESS",
+      "II-D",
+      "II-D",
+      "II-D",
+      "II-D"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Geetika Kapahi/Manvi": [
+    [
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA"
+    ],
+    [
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA"
+    ],
+    [
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA"
+    ],
+    [
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA"
+    ],
+    [
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA"
+    ],
+    [
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA",
+      "IIA"
+    ],
+    "Mother Teacher",
+    true
+  ],
+  "Kashish": [
+    [
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB"
+    ],
+    [
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB"
+    ],
+    [
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB"
+    ],
+    [
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB"
+    ],
+    [
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB"
+    ],
+    [
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB",
+      "IIB"
+    ],
+    "Mother Teacher",
     true
   ]
 }
