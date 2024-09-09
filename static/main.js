@@ -45,9 +45,9 @@ function openModal(data){
                 response=JSON.parse(xhttp.responseText)
                 rec_data = response["data"]
                 if (rec_data[7] == true){
-                    table.innerHTML="<th><tr><td>Zero</td><td>First</td><td>Second</td><td>Third</td><td>Recess</td><td>Fourth</td><td>Fifth</td><td>Sixth</td><td>Seventh</td><td>Eighth</td> </tr></th>"
+                    table.innerHTML="<th><tr><td>Zero</td><td>First</td><td>Second</td><td>Third</td><td>Recess</td><td>Fourth</td><td>Fifth</td><td>Sixth</td><td>Seventh</td><td>Eighth</td><td>Nineth</td> </tr></th>"
                 }else{
-                    table.innerHTML="<th><tr><td>Zero</td><td>First</td><td>Second</td><td>Third</td><td>Fourth</td><td>Recess</td><td>Fifth</td><td>Sixth</td><td>Seventh</td><td>Eighth</td> </tr></th>"
+                    table.innerHTML="<th><tr><td>Zero</td><td>First</td><td>Second</td><td>Third</td><td>Fourth</td><td>Recess</td><td>Fifth</td><td>Sixth</td><td>Seventh</td><td>Eighth</td><td>Nineth</td>  </tr></th>"
                 }
             }catch{
             }

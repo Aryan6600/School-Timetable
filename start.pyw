@@ -3,8 +3,8 @@ from time import strftime,localtime # to get current time for knowing the correc
 from flask import Flask,render_template,request #required to create a webserver for this app
 
 
-sr_period_map=["7:40-8:40","8:40-9:10","9:10-9:45","9:45-10:20","10:20-10:55","10:55-11:20","11:20-11:55","11:55-12:25","12:25-12:55","12:55-13:30"] # map for timings of different periods
-jr_period_map=["7:40-8:40","8:40-9:10","9:10-9:45","9:45-10:20","10:20-10:45","10:45-11:20","11:20-11:55","11:55-12:25","12:25-12:55","12:55-13:30"] # map for timings of different periods
+sr_period_map=["7:40-8:40","8:40-9:10","9:10-9:45","9:45-10:20","10:20-10:55","10:55-11:20","11:20-11:55","11:55-12:25","12:25-12:55","12:55-13:30","13:30-14:45"] # map for timings of different periods
+jr_period_map=["7:40-8:40","8:40-9:10","9:10-9:45","9:45-10:20","10:20-10:45","10:45-11:20","11:20-11:55","11:55-12:25","12:25-12:55","12:55-13:30","13:30-14:45"] # map for timings of different periods
 
 
 def getCurrentPeriod(is_sr=True): # function to predict the current period
